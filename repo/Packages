@@ -2,7 +2,7 @@ Package: com.autobup.changeinfo
 Version: 1.0.1
 Section: Offer
 Maintainer: Autobup <autobup@gmail.com>
-Depends: firmware (>= 5.0), mobilesubstrate, jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger, com.autopear.installipa, libactivator, jetslammed,curl, network-cmds
+Depends: firmware (>= 9.0), mobilesubstrate, jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger, com.autopear.installipa, libactivator, jetslammed,curl, network-cmds
 Architecture: iphoneos-arm
 Filename: Files/changeinfo/com.autobup.changeinfo_1.7.3.deb
 Description: Controlerdevice support to ios 11!

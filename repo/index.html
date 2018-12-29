@@ -1,20 +1,20 @@
 <div id="title">Autobup's Repo</div>
 <div id="content">
-	<h2>Aubobup Repo</h2>
 	<h4>Here is Autobup's Repo, enjoy!</h4>
 	<div class="text-center openCydia" style="margin-top:15px" dir="ltr">
 		<hr>
 		<p>Open Cydia &gt; Sources &gt; Edit &gt; Add</p>
 	<div class="input-group input-group-lg">
 		<input autocomplete="off" dir="ltr" class="form-control" style="text-align:center;user-select:text;-ms-user-select:text;-moz-user-select:text;-khtml-user-select:text;-webkit-user-select:text;-webkit-touch-callout:text" type="text" value="https://autobup.github.io/repo/">
-		<span class="input-group-btn"><a class="btn btn-primary" style="height:50px" rel="nofollow" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://autobup.github.io/repo/">Add</a></span>
+		<span class="input-group-btn"><a class="btn btn-primary" rel="nofollow" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://autobup.github.io/repo/">Add</a></span>
 	</div>
 </div>
+<span id="ocy"></span>
 <div id="samples" style="width:100%"></div>
 <script type="text/javascript">
 //Some fast iOS check.
 is_ios = (navigator.userAgent.match(/iPad/i) != null) || (navigator.userAgent.match(/iPhone/i) != null) || (navigator.userAgent.match(/iPod/i) != null);
-if (!is_ios) document.getElementById('ocy').innerHTML = ' Most probably, you will not be able to open Cydia.';
+// if (!is_ios) document.getElementById('ocy').innerHTML = ' Most probably, you will not be able to open Cydia.';
 
 //The functionality for the package list.
 function Apt_package() {
@@ -138,7 +138,7 @@ xhr.send();
 </div>
 
 <!-- include this where you want the standard design template from here... -->
-<script type="text/javascript" src="../template.js"></script>
+<script type="text/javascript" src="./dptemplate.js"></script>
 <noscript>
 As this website uses JavaScript to generate a semi-dynamically created page, you need to activate JavaScript!
 </noscript>

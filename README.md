@@ -1,2 +1,2 @@
-# autobup.github.io
-Autobup Cydia Repository
+# Autobup Repository
+Go to <a href="repo">Autobup Repository</a>

@@ -15,3 +15,19 @@ Description: Controler device for Autobup tool!
 Author: Autobup
 Name: ChangeInfo
 
+Package: com.autobup.hookapp
+Version: 1.3.2-33
+Architecture: iphoneos-arm
+Maintainer: nam4am@autobup.com
+Installed-Size: 256
+Depends: firmware (>=9.0),mobilesubstrate
+Filename: ./Files/hookapp/com.autobup.hookapp_1.3.2-33_iphoneos-arm.deb
+Size: 63752
+MD5sum: 8a3ac0399a0c289b38a06d3401cd33af
+SHA1: aed48777cd72155bf942d347a86a603b518a479f
+SHA256: d55c4177a98e6a6274c4afea0c5254b78d3636aed1067ef43308706014fc3181
+Section: Offer
+Description: Support for hook package auto, only App.
+Author: Autobup
+Name: HookApp
+

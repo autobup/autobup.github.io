@@ -31,6 +31,19 @@ Description: Support for hook package auto, only App.
 Author: Autobup
 Name: HookApp
 
+Package: com.ichitaso.dropbear
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 1.0)
+Filename: ./Files/dropbear/com.ichitaso.dropbear_1.0_iphoneos-arm.deb
+Size: 1443794
+MD5sum: 0d43133f44c23f099452d31601672c60
+SHA1: 900312cb8c43e38f00e56e96df9802dd4215ac59
+SHA256: 4bb0a720e0514c645f2737e9b5831e33c3aa66ada25da6583bec5b22a8e6d8c6
+Section: System
+Description: Dropbear SSH for 32 and 64 bit devices. Use with an SSH tunnel to SSH via USB (Wi-Fi SSH is not enabled by default.)
+Name: Dropbear
+
 Package: com.namlh.autobup
 Version: 0.0.7-2
 Architecture: iphoneos-arm

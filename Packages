@@ -31,3 +31,36 @@ Description: Support for hook package auto, only App.
 Author: Autobup
 Name: HookApp
 
+Package: com.namlh.autobup
+Version: 0.0.7-2
+Architecture: iphoneos-arm
+Maintainer: nam4am@gmail.com
+Installed-Size: 572
+Pre-Depends: preferenceloader, sudo
+Depends: firmware (>=10.0), mobilesubstrate
+Filename: ./Files/bupgame/com.namlh.autobup_0.0.7-2_iphoneos-arm.deb
+Size: 162492
+MD5sum: fd5a6ec86086994b592e386479ded4cd
+SHA1: 9ee3fdb25763d1ccb4cc049defc84d467bb317a0
+SHA256: 540716d50dd17e19123dd55ce79bf72e33d035c36397b200d7beda6bb34f86b4
+Section: Game
+Description: Game Plaform client made by namle
+Author: LeNam
+Name: Autobupgame
+
+Package: com.smteam.autoleadhookios
+Version: 1.2.1-119
+Architecture: iphoneos-arm
+Maintainer: SMTeam
+Installed-Size: 204
+Depends: firmware (>=9.0),mobilesubstrate
+Filename: ./Files/hookitune/com.smteam.autoleadhookios_1.2.1-119_iphoneos-arm.deb
+Size: 34242
+MD5sum: 7e2c8acc968d1016cf69d1d9e23e28ba
+SHA1: 6769b7a47c28e9fe988f54e28875d6858731fe7d
+SHA256: 8c64b582e34092b530fca0b7bf79b91c35e4e358fa1453268f1eaf124967f4d0
+Section: Game
+Description: Don't hook App and TS, Support for hook package auto, only itune.
+Author: Namle
+Name: AutoLeadHookItunes
+

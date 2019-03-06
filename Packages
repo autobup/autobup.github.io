@@ -45,17 +45,17 @@ Description: Dropbear SSH for 32 and 64 bit devices. Use with an SSH tunnel to S
 Name: Dropbear
 
 Package: com.namlh.autobup
-Version: 0.1.0-4
+Version: 0.1.1-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 588
 Pre-Depends: preferenceloader, sudo, applist
 Depends: firmware (>=10.0), mobilesubstrate
-Filename: ./Files/bupgame/com.namlh.autobup_0.1.0-4_iphoneos-arm.deb
-Size: 167454
-MD5sum: 66a4623d934aa99adb885e32baf6f45c
-SHA1: 6247cacb7debc784109d9ba9017a6a81fbbaf5f8
-SHA256: 81c3216c837eb300b93e8efe41fa15d8b1744a3a976ef6ad33e6bbe4291511c1
+Filename: ./Files/bupgame/com.namlh.autobup_0.1.1-1_iphoneos-arm.deb
+Size: 167392
+MD5sum: 76b036edbf1d528b8641cf5d88ffbaba
+SHA1: 9a970fd355ee3f7da52dcfb4126b6039748aae35
+SHA256: 559506ea0bfed8c30003ce8b39675d42d16f98a2517ebd5ed2cf31c13bf3a5a4
 Section: Game
 Description: Game Plaform client made by namle
 Author: LeNam

@@ -77,3 +77,18 @@ Description: Don't hook App and TS, Support for hook package auto, only itune.
 Author: Namle
 Name: AutoLeadHookItunes
 
+Package: com.yourepo.nam4am1.xcon
+Version: 42~beta3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Filename: ./Files/bypassjp/com.yourepo.nam4am1.xcon_42~beta3_iphoneos-arm.deb
+Size: 136156
+MD5sum: 9ffe5c04bdea94257a533c2c77267746
+SHA1: 32b15a9bda8438e2adc84b726d44a6ffa64e67fc
+SHA256: 16a18f777a86d63808fbdae60aabea612310b8c8b6c9c1e22a0119097b9ad132
+Section: Tweaks
+Description: Util support for autoporo .............................
+Author: Lunatik <nam4am@mail-vl.com>
+Name: xCon
+

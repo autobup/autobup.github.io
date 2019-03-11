@@ -147,3 +147,19 @@ Description: Util support for autoporo .............................
 Author: Lunatik <nam4am@mail-vl.com>
 Name: xCon
 
+Package: org.coolstar.scp-sftp-dropbear
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: openssl
+Conflicts: openssh
+Filename: ./Files/ftpsfcpfordropbear/org.coolstar.scp-sftp-dropbear_1.0.2_iphoneos-arm.deb
+Size: 196386
+MD5sum: 4221c938339c2e21cd4758e2b4a41212
+SHA1: d7675f2dc6ec58662e85da4a14b9ddf9db7cf312
+SHA256: 2a0253ba7e20ad7bd25f8304f500199bb549b7cbada7279c50aa684f613ecad4
+Section: System
+Description: Add SCP and SFTP for use with dropbear SSH server. (Useful with Yalu jailbreaks).
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: SCP and SFTP for dropbear
+

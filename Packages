@@ -15,6 +15,23 @@ Description: Get ADVID,Fix SSH Yalu, move file config fake system to tmp........
 Author: Autobup
 Name: autoleadapp_anhkhoa
 
+Package: com.autobup.autoleadios.public
+Version: 1.7.4-2
+Architecture: iphoneos-arm
+Maintainer: nam4am@gmail.com
+Installed-Size: 644
+Pre-Depends: jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger,jetslammed,curl, network-cmds
+Depends: firmware (>=8.0),mobilesubstrate
+Filename: ./Files/autoleadios/com.autobup.autoleadios.public_1.7.4-2_iphoneos-arm.deb
+Size: 185624
+MD5sum: a00d3d5fcde636bcf01bc368eccf2194
+SHA1: c190cc712f686fc2a248deef86f5db0296943da8
+SHA256: 0cdd67a2b361ecd7a0d6ca5f09b125717497be8265b4a07310e3944be933cef4
+Section: Offer
+Description: Get ADVID,Fix SSH Yalu, move file config fake system to tmp........................................................
+Author: Autobup
+Name: autoleadapp
+
 Package: com.autobup.changeinfo
 Version: 1.7.4-2
 Architecture: iphoneos-arm

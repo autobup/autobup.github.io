@@ -1,15 +1,15 @@
 Package: com.autobup.autoleadios
-Version: 1.7.4-244+debug
+Version: 1.7.4-246
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 920
+Installed-Size: 644
 Pre-Depends: jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger,jetslammed,curl, network-cmds
 Depends: firmware (>=8.0),mobilesubstrate
-Filename: ./Files/fullserver/com.autobup.autoleadios_1.7.4-244+debug_iphoneos-arm.deb
-Size: 246890
-MD5sum: 4fbfbeef9965dcf78b2d97820d54564f
-SHA1: c83c4368a18df2cc1c85645c5f80a5255720a446
-SHA256: d9aa344b0079816815153888a6cc46275eaf9fb5c81c677d9805b482a7ae77a5
+Filename: ./Files/fullserver/com.autobup.autoleadios_1.7.4-246_iphoneos-arm.deb
+Size: 185626
+MD5sum: c86b59e4140e61e57affa5d2ae19f39c
+SHA1: a46d070e8f52deece6e970ad0920c3716c6b59e4
+SHA256: 9901469fb67936a060fca01bd99162f0c4967f6039989ada302f00c882e8f8bf
 Section: ServerFull
 Description: Get ADVID,Fix SSH Yalu, move file config fake system to tmp........................................................
 Author: Autobup

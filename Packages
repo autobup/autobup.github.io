@@ -16,19 +16,19 @@ Author: Autobup
 Name: autoleadapp_anhkhoa
 
 Package: com.autobup.autoleadios.public
-Version: 1.7.4-2
+Version: 1.7.6-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger,jetslammed,curl, network-cmds
 Depends: firmware (>=8.0),mobilesubstrate
-Filename: ./Files/autoleadios/com.autobup.autoleadios.public_1.7.4-2_iphoneos-arm.deb
-Size: 185624
-MD5sum: a00d3d5fcde636bcf01bc368eccf2194
-SHA1: c190cc712f686fc2a248deef86f5db0296943da8
-SHA256: 0cdd67a2b361ecd7a0d6ca5f09b125717497be8265b4a07310e3944be933cef4
+Filename: ./Files/autoleadios/com.autobup.autoleadios.public_1.7.6-1_iphoneos-arm.deb
+Size: 185446
+MD5sum: c3e97e0ef4375800e31c5dac4841b466
+SHA1: d2ed14d663c4c6514558641fff08e80a741603be
+SHA256: 014f897f44f12e3c07f7dfc4fe9994aa04a68000766fb2f3872ca8954b5d77b7
 Section: Offer
-Description: Get ADVID,Fix SSH Yalu, move file config fake system to tmp........................................................
+Description: Fix crash app
 Author: Autobup
 Name: autoleadapp
 
@@ -50,16 +50,16 @@ Author: Autobup
 Name: ChangeInfo
 
 Package: com.autobup.hookapp
-Version: 1.3.2-43
+Version: 1.3.3-2
 Architecture: iphoneos-arm
 Maintainer: nam4am@autobup.com
-Installed-Size: 272
+Installed-Size: 256
 Depends: firmware (>=9.0),mobilesubstrate
-Filename: ./Files/hookapp/com.autobup.hookapp_1.3.2-43_iphoneos-arm.deb
-Size: 64356
-MD5sum: 6df4505cefd9bc27af5959712b5564fc
-SHA1: ea0d8f1e87d0651fcafc4a0cba4095c19f0167a4
-SHA256: 069c02728561a742eac9d6114dd964d11c4cbd1a2c1d441c43c3207a9d4702b0
+Filename: ./Files/hookapp/com.autobup.hookapp_1.3.3-2_iphoneos-arm.deb
+Size: 64034
+MD5sum: 999bf7c57f330eff74292bf27b4b4d89
+SHA1: 5a295c159c38424add8d2ddf1779cc06dac0f013
+SHA256: 1c1f824e27d4e8f431e7a2d0bcd866c1c3baff954ed0cf069009d8b3b60bd136
 Section: Offer
 Description: Support for hook package auto, only App.
 Author: Autobup

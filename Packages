@@ -65,27 +65,6 @@ Description: Support for hook package auto, only App.
 Author: Autobup
 Name: HookApp
 
-Package: com.exile90.icleanerpro
-Version: 7.6.4
-Architecture: iphoneos-arm
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Pre-Depends: apt, findutils, shell-cmds
-Depends: firmware (>= 4.0)
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./Files/icleanpro/com.exile90.icleanerpro_7.6.4_iphoneos-arm.deb
-Size: 3565292
-MD5sum: e82848f686c56f6515f9c6df72d9bc5a
-SHA1: 9d9df839501fe0a57312a7312915945d168a02db
-SHA256: fe7a4de25d581a61b9b5ce049b8fdafe5a1f0ae0758e38176708ac92bccc32ec
-Section: Utilities
-Homepage: http://ib-soft.net/icleaner
-Description: The first real iOS system cleaner & optimizer
-Author: Ivano Bilenchi <support@ib-soft.net>
-Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Icon: file:///Applications/iCleaner.app/Icon.png
-Name: iCleaner Pro
-
 Package: com.ichitaso.dropbear
 Version: 1.0
 Architecture: iphoneos-arm

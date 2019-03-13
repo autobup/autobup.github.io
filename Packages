@@ -33,17 +33,17 @@ Author: Autobup
 Name: autoleadapp10
 
 Package: com.autobup.autoleadios.public.v3
-Version: 1.7.5-2
+Version: 1.7.5-4
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: com.autobup.hookapp,com.yourepo.nam4am1.xcon,jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger,jetslammed,curl,network-cmds
-Depends: mobilesubstrate,firmware (>=11.0),firmware (<< 11.4.1), openssh
-Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.7.5-2_iphoneos-arm.deb
-Size: 185202
-MD5sum: 298d4733867ef3b13fedf75e8eafe220
-SHA1: 8ad0ec14330a9238d4dcdc0ce926748d876a0485
-SHA256: 31775edd58a84e0394c5260be1c40814ee9b5d458017a2a42fb78c19324e5ec9
+Depends: mobilesubstrate,firmware (>=11.0),firmware (<< 11.4.1), openssh, com.exile90.icleanerpro
+Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.7.5-4_iphoneos-arm.deb
+Size: 185216
+MD5sum: 608788a3c52959711bcfcf4088860b3c
+SHA1: ec0672b0aed2cdec9be16b137395073fa28a47ae
+SHA256: ed012630b0de49b13161836ed0672e2bacb065f9b093c395a4ec21cf112cd7c5
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup

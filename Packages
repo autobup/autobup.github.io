@@ -15,37 +15,37 @@ Description: Get ADVID,Fix SSH Yalu, move file config fake system to tmp........
 Author: Autobup
 Name: autoleadapp_anhkhoa
 
-Package: com.autobup.autoleadios.public.v10.3
+Package: com.autobup.autoleadios.public.v2
 Version: 1.7.5-2
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: com.autobup.hookapp,com.yourepo.nam4am1.xcon,jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger,jetslammed,curl,network-cmds
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<< 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.exile90.icleanerpro
-Filename: ./Files/autoleadios/com.autobup.autoleadios.public.v10.3_1.7.5-2_iphoneos-arm.deb
-Size: 185252
-MD5sum: 38ac2d7262af8a4959fb99e822d5a7ac
-SHA1: 87f72e0b2053ebbbd82e0f99d6dfd5f23de666ce
-SHA256: 286e4bf267d700571433df1a43688fcbf91e24720dc04456bf7b52bdf6a7a277
+Filename: ./Files/autoleadios/v2/com.autobup.autoleadios.public.v2_1.7.5-2_iphoneos-arm.deb
+Size: 185254
+MD5sum: f6aa2397c91143f48bbbdb2c396174f8
+SHA1: e50184d13161abe1d8e5b1b8a2e78b96696126a3
+SHA256: 89adcd2df1749e3f79866ea601ed6275f33b010270237f547f1b8837ad6f99e0
 Section: Offer
-Description: iOS: 10.3 - 10.3.3
+Description: iOS: 10.0 - 10.3.3
 Author: Autobup
 Name: autoleadapp10.3
 
-Package: com.autobup.autoleadios.public.v11
+Package: com.autobup.autoleadios.public.v3
 Version: 1.7.5-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: com.autobup.hookapp,com.yourepo.nam4am1.xcon,jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger,jetslammed,curl,network-cmds
-Depends: mobilesubstrate,firmware (>=11.0),firmware (<< 11.4.1), openssh
-Filename: ./Files/autoleadios/com.autobup.autoleadios.public.v11_1.7.5-1_iphoneos-arm.deb
-Size: 185202
-MD5sum: ccf0453831e5350700df0448662cf371
-SHA1: 1d7c5da1509cbe993b6ebb66e416867bb156a021
-SHA256: 0a0ea5ddd7537db3c819dee7cf4d2684efd61d58f9ee962e6b81d2945bbc8ea2
+Depends: mobilesubstrate,firmware (>=11.0),firmware (<< 12.1.2), openssh
+Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.7.5-1_iphoneos-arm.deb
+Size: 185204
+MD5sum: f11169ec6a610ae4098a0aa9d0c95fc0
+SHA1: 3e93344d948a8eb057f96e29a6542bbbf3def510
+SHA256: d23fc478c870b5e4e57d2a1d2a0969fbdaf3025724c7e228b74ff108406d412a
 Section: Offer
-Description: iOS: 11.0 - 11.4.1
+Description: iOS: 11.0 - 12.1.2
 Author: Autobup
 Name: autoleadapp11
 

@@ -15,22 +15,39 @@ Description: Get ADVID,Fix SSH Yalu, move file config fake system to tmp........
 Author: Autobup
 Name: autoleadapp_anhkhoa
 
-Package: com.autobup.autoleadios.public
-Version: 1.7.5-11
+Package: com.autobup.autoleadios.public.v10.3
+Version: 1.7.5-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: com.autobup.hookapp,com.yourepo.nam4am1.xcon,jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger,jetslammed,curl,network-cmds
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<< 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.exile90.icleanerpro
-Filename: ./Files/autoleadios/com.autobup.autoleadios.public_1.7.5-11_iphoneos-arm.deb
+Filename: ./Files/autoleadios/com.autobup.autoleadios.public.v10.3_1.7.5-1_iphoneos-arm.deb
 Size: 185250
-MD5sum: b4683bd37c6a458a9f4e38c70cdac6f2
-SHA1: 63b6fa8a594d444ac7253279b01cd6573d657d9b
-SHA256: 97c5eb27c5b345163930e2a52cb69752685df983f768dfb74959e786a1961860
+MD5sum: 439f0f4a78676b94843616b526e7e2af
+SHA1: a9d8beab48f9e353a50bd0f8fecd756615dd6235
+SHA256: b655ba5c4a3fc2118542d3a7e6f1ab16fd056773ca7a328a0dd47f0615c2b6b8
 Section: Offer
 Description: iOS: 10.3 - 10.3.3
 Author: Autobup
 Name: autoleadapp10.3
+
+Package: com.autobup.autoleadios.public.v11
+Version: 1.7.5-1
+Architecture: iphoneos-arm
+Maintainer: nam4am@gmail.com
+Installed-Size: 644
+Pre-Depends: com.autobup.hookapp,com.yourepo.nam4am1.xcon,jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger,jetslammed,curl,network-cmds
+Depends: mobilesubstrate,firmware (>=11.0),firmware (<< 11.4.1), openssh
+Filename: ./Files/autoleadios/com.autobup.autoleadios.public.v11_1.7.5-1_iphoneos-arm.deb
+Size: 185202
+MD5sum: ccf0453831e5350700df0448662cf371
+SHA1: 1d7c5da1509cbe993b6ebb66e416867bb156a021
+SHA256: 0a0ea5ddd7537db3c819dee7cf4d2684efd61d58f9ee962e6b81d2945bbc8ea2
+Section: Offer
+Description: iOS: 11.0 - 11.4.1
+Author: Autobup
+Name: autoleadapp11
 
 Package: com.autobup.hookapp
 Version: 1.3.3-2

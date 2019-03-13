@@ -16,17 +16,17 @@ Author: Autobup
 Name: autoleadapp_anhkhoa
 
 Package: com.autobup.autoleadios.public.v10.3
-Version: 1.7.5-1
+Version: 1.7.5-2
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: com.autobup.hookapp,com.yourepo.nam4am1.xcon,jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger,jetslammed,curl,network-cmds
-Depends: mobilesubstrate,firmware (>=10.3),firmware (<< 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.exile90.icleanerpro
-Filename: ./Files/autoleadios/com.autobup.autoleadios.public.v10.3_1.7.5-1_iphoneos-arm.deb
-Size: 185250
-MD5sum: 439f0f4a78676b94843616b526e7e2af
-SHA1: a9d8beab48f9e353a50bd0f8fecd756615dd6235
-SHA256: b655ba5c4a3fc2118542d3a7e6f1ab16fd056773ca7a328a0dd47f0615c2b6b8
+Depends: mobilesubstrate,firmware (>=10.0),firmware (<< 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.exile90.icleanerpro
+Filename: ./Files/autoleadios/com.autobup.autoleadios.public.v10.3_1.7.5-2_iphoneos-arm.deb
+Size: 185252
+MD5sum: 38ac2d7262af8a4959fb99e822d5a7ac
+SHA1: 87f72e0b2053ebbbd82e0f99d6dfd5f23de666ce
+SHA256: 286e4bf267d700571433df1a43688fcbf91e24720dc04456bf7b52bdf6a7a277
 Section: Offer
 Description: iOS: 10.3 - 10.3.3
 Author: Autobup

@@ -16,16 +16,16 @@ Author: Autobup
 Name: autoleadapp_anhkhoa
 
 Package: com.autobup.autoleadios.public
-Version: 1.7.5-5
+Version: 1.7.5-7
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
-Depends: mobilesubstrate,firmware (>=9.0),com.ichitaso.dropbear,firmware (<< 10.3), openssh,jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger,jetslammed,curl,network-cmds
-Filename: ./Files/autoleadios/com.autobup.autoleadios.public_1.7.5-5_iphoneos-arm.deb
-Size: 185176
-MD5sum: 3ed53dd34f8d1e93037e4df58f2eedd7
-SHA1: 8a4d0d972b4e759439a2ef31cea8c07171a08880
-SHA256: e52da611c300518971f8a010104379991a8db7a47fd920055ff9264d52a26580
+Depends: mobilesubstrate,firmware (>=9.0),com.ichitaso.dropbear,firmware (<< 10.3.3), openssh,jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger,jetslammed,curl,network-cmds
+Filename: ./Files/autoleadios/com.autobup.autoleadios.public_1.7.5-7_iphoneos-arm.deb
+Size: 185184
+MD5sum: d8fbafe02ce9b1e2cffd897845da1e71
+SHA1: 0904438de196f6b83b4c9a014645c62e51bb02fc
+SHA256: 999f8f1a7e0500947c3953014eae9efe5ab193e2027892883f1cc406215b40f8
 Section: Offer
 Description: Fix crash app
 Author: Autobup

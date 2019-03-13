@@ -33,19 +33,36 @@ Author: Autobup
 Name: autoleadapp10.3
 
 Package: com.autobup.autoleadios.public.v3
-Version: 1.7.5-1
+Version: 1.7.5-2
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: com.autobup.hookapp,com.yourepo.nam4am1.xcon,jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger,jetslammed,curl,network-cmds
-Depends: mobilesubstrate,firmware (>=11.0),firmware (<< 12.1.2), openssh
-Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.7.5-1_iphoneos-arm.deb
-Size: 185204
-MD5sum: f11169ec6a610ae4098a0aa9d0c95fc0
-SHA1: 3e93344d948a8eb057f96e29a6542bbbf3def510
-SHA256: d23fc478c870b5e4e57d2a1d2a0969fbdaf3025724c7e228b74ff108406d412a
+Depends: mobilesubstrate,firmware (>=11.0),firmware (<< 11.4.1), openssh
+Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.7.5-2_iphoneos-arm.deb
+Size: 185202
+MD5sum: 298d4733867ef3b13fedf75e8eafe220
+SHA1: 8ad0ec14330a9238d4dcdc0ce926748d876a0485
+SHA256: 31775edd58a84e0394c5260be1c40814ee9b5d458017a2a42fb78c19324e5ec9
 Section: Offer
-Description: iOS: 11.0 - 12.1.2
+Description: iOS: 11.0 - 11.4.1
+Author: Autobup
+Name: autoleadapp11
+
+Package: com.autobup.autoleadios.public.v4
+Version: 1.7.5-1
+Architecture: iphoneos-arm
+Maintainer: nam4am@gmail.com
+Installed-Size: 644
+Pre-Depends: com.autobup.hookapp,jetslammed
+Depends: mobilesubstrate,firmware (>=12.0),firmware (<< 12.1.2)
+Filename: ./Files/autoleadios/v4/com.autobup.autoleadios.public.v4_1.7.5-1_iphoneos-arm.deb
+Size: 185144
+MD5sum: 8dd2601e3e43cd208ff0ab1b61752981
+SHA1: e7d89959ecf41754069d7ea8061c024c3187c3b2
+SHA256: e1bb08e6c8a6c0ae565a48883432af6e2a106348dda12f7bc85759d21ea41851
+Section: Offer
+Description: iOS: 12.0 - 12.1.2 (Chỉ dành cho TestTeam)
 Author: Autobup
 Name: autoleadapp11
 

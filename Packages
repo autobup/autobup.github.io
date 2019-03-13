@@ -16,21 +16,21 @@ Author: Autobup
 Name: autoleadapp_anhkhoa
 
 Package: com.autobup.autoleadios.public.v2
-Version: 1.7.5-2
+Version: 1.7.5-3
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: com.autobup.hookapp,com.yourepo.nam4am1.xcon,jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger,jetslammed,curl,network-cmds
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<< 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.exile90.icleanerpro
-Filename: ./Files/autoleadios/v2/com.autobup.autoleadios.public.v2_1.7.5-2_iphoneos-arm.deb
-Size: 185254
-MD5sum: f6aa2397c91143f48bbbdb2c396174f8
-SHA1: e50184d13161abe1d8e5b1b8a2e78b96696126a3
-SHA256: 89adcd2df1749e3f79866ea601ed6275f33b010270237f547f1b8837ad6f99e0
+Filename: ./Files/autoleadios/v2/com.autobup.autoleadios.public.v2_1.7.5-3_iphoneos-arm.deb
+Size: 185246
+MD5sum: 11cf6bb0cb7daef7af15d810614c4e81
+SHA1: d58ea940d73f51237c8583f2f79bee3857e2736d
+SHA256: 6de3ca7063249699d174b082d05191278c82805d308b87aec964a1ce66643bfb
 Section: Offer
 Description: iOS: 10.0 - 10.3.3
 Author: Autobup
-Name: autoleadapp10.3
+Name: autoleadapp10
 
 Package: com.autobup.autoleadios.public.v3
 Version: 1.7.5-2
@@ -50,21 +50,21 @@ Author: Autobup
 Name: autoleadapp11
 
 Package: com.autobup.autoleadios.public.v4
-Version: 1.7.5-1
+Version: 1.7.5-2
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: com.autobup.hookapp,jetslammed
 Depends: mobilesubstrate,firmware (>=12.0),firmware (<< 12.1.2)
-Filename: ./Files/autoleadios/v4/com.autobup.autoleadios.public.v4_1.7.5-1_iphoneos-arm.deb
-Size: 185144
-MD5sum: 8dd2601e3e43cd208ff0ab1b61752981
-SHA1: e7d89959ecf41754069d7ea8061c024c3187c3b2
-SHA256: e1bb08e6c8a6c0ae565a48883432af6e2a106348dda12f7bc85759d21ea41851
+Filename: ./Files/autoleadios/v4/com.autobup.autoleadios.public.v4_1.7.5-2_iphoneos-arm.deb
+Size: 185146
+MD5sum: b1f74d5c5455bbe6be85d6b433711772
+SHA1: 011b0fb30d0b4a86b8b2581fdbf38b869ea6e48e
+SHA256: 795224ceabfce2a456e26c5acb8ee2d1ed38dd23482aa5803445352b21b5cebc
 Section: Offer
 Description: iOS: 12.0 - 12.1.2 (Chỉ dành cho TestTeam)
 Author: Autobup
-Name: autoleadapp11
+Name: autoleadapp12
 
 Package: com.autobup.hookapp
 Version: 1.3.3-2

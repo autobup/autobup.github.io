@@ -32,23 +32,6 @@ Description: iOS: 10.3 - 10.3.3
 Author: Autobup
 Name: autoleadapp10.3
 
-Package: com.autobup.changeinfo
-Version: 1.7.4-2
-Architecture: iphoneos-arm
-Maintainer: nam4am@autobup.com
-Installed-Size: 776
-Pre-Depends: jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger, jetslammed,curl, network-cmds
-Depends: firmware (>=9.0),mobilesubstrate
-Filename: ./Files/changeinfo/com.autobup.changeinfo_1.7.4.deb
-Size: 285928
-MD5sum: 3a961a87683869e92a8d6a04e6a0a123
-SHA1: c59c27afa4fbbcad8d3996d691c7d69643138c4e
-SHA256: d8a36b956eaf8816e5b39a9b30e0b9be57424df9a3d8b92e7af4264b6a31925d
-Section: Offer
-Description: Controler device for Autobup tool!
-Author: Autobup
-Name: ChangeInfo
-
 Package: com.autobup.hookapp
 Version: 1.3.3-2
 Architecture: iphoneos-arm

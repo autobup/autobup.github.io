@@ -163,6 +163,30 @@ Description: Util support for autoporo .............................
 Author: Lunatik <nam4am@mail-vl.com>
 Name: xCon
 
+Package: me.autotouch.autotouch.ios8
+Version: 4.3.7
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 25221
+Depends: firmware (>= 8.0), mobilesubstrate (>=0.9.5000), applist (>= 1.4.1), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: me.autotouch.autotouch.ios7
+Filename: ./Files/autotouch/autotouch8_4.3.7.deb
+Size: 7290022
+MD5sum: ce2ea0c866e30be76d0f07cdeb846cd9
+SHA1: 045f44efca62bb3f4101ff181e21fa8ed1f46525
+SHA256: 20938bb6b64b72a2ba3e8da2e2efebdc87b7043d4dad1c0c55bfb5a908dc4c06
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autotouch8Dp
+Description: Record and playback touch operations, play macro scripts automatically.
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: Kent Krantz <kentkrantz@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autotouch8Dp
+Dev: kentkrantz
+Icon: file:///Applications/AutoTouch.app/AppIcon29x29@2x.png
+Name: AutoTouch
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: org.coolstar.scp-sftp-dropbear
 Version: 1.0.2
 Architecture: iphoneos-arm

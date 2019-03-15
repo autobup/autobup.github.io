@@ -15,35 +15,52 @@ Description: Get ADVID,Fix SSH Yalu, move file config fake system to tmp........
 Author: Autobup
 Name: autoleadapp_anhkhoa
 
-Package: com.autobup.autoleadios.public.v2
+Package: com.autobup.autoleadios.public.v1
 Version: 1.7.7-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
-Pre-Depends: com.autobup.hookapp,com.yourepo.nam4am1.xcon, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
-Depends: mobilesubstrate,firmware (>=10.0),firmware (<< 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.exile90.icleanerpro
-Filename: ./Files/autoleadios/v2/com.autobup.autoleadios.public.v2_1.7.7-1_iphoneos-arm.deb
-Size: 183782
-MD5sum: fd913101dbc714fcc71bc5c4dea6f735
-SHA1: a4dbf0a01662e6c25c3078e2c9292e1cf0ade082
-SHA256: 55b936f499372320ad93a2222a640c973c8d8ebe01da18706718e9f11e4ec636
+Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
+Depends: mobilesubstrate,firmware (>=10),firmware (<=10.2),org.coolstar.scp-sftp-dropbear,com.exile90.icleanerpro
+Filename: ./Files/autoleadios/v1/com.autobup.autoleadios.public.v1_1.7.7-1_iphoneos-arm.deb
+Size: 183756
+MD5sum: febcd9054f06bc07d9d9fe39371d61d0
+SHA1: 56926780e3981da1b0b75529813db3147df50a6b
+SHA256: 523a21e785f778d9486282207dcdc6871b9a8e5b5a21b80430c488b0bf1b2cfa
 Section: Offer
-Description: iOS: 10.0 - 10.3.3
+Description: iOS: 10.0 - 10.2
+Author: Autobup
+Name: autoleadapp10
+
+Package: com.autobup.autoleadios.public.v2
+Version: 1.7.7-2
+Architecture: iphoneos-arm
+Maintainer: nam4am@gmail.com
+Installed-Size: 644
+Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
+Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.exile90.icleanerpro
+Filename: ./Files/autoleadios/v2/com.autobup.autoleadios.public.v2_1.7.7-2_iphoneos-arm.deb
+Size: 183770
+MD5sum: ea5cfa93daf29cebf135a5fe86e6b699
+SHA1: 5af395c8fa3d1ecf9364885ddd8262f6cd1b722a
+SHA256: 98c7f3a8cc1495f20086036d8e8c4174a7f81d6cb8d1d8297d72f1f5cd4553dd
+Section: Offer
+Description: iOS: 10.3 - 10.3.3
 Author: Autobup
 Name: autoleadapp10
 
 Package: com.autobup.autoleadios.public.v3
-Version: 1.7.7-1
+Version: 1.7.7-3
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
-Pre-Depends: com.autobup.hookapp,com.yourepo.nam4am1.xcon, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
-Depends: mobilesubstrate,firmware (>=11.0),firmware (<< 11.4.1), openssh, com.exile90.icleanerpro
-Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.7.7-1_iphoneos-arm.deb
-Size: 183758
-MD5sum: 492739d06636882197ad8930dd4ceda9
-SHA1: fd4bf54ce00d2b579a297a0cff2b30a94764af7d
-SHA256: 7117be03656756ba715e20232c41edbfa2e2bcb624b923d12dd641d2f294658d
+Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
+Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh, com.exile90.icleanerpro
+Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.7.7-3_iphoneos-arm.deb
+Size: 183742
+MD5sum: 402ddf6b401d71a9b4d82f210f718e23
+SHA1: 7971b67ef4d87a07a7f5981ad5d3da3b2d834012
+SHA256: 9f615d709274990641a5e85308fd1e4438c8812c02b5fde20277dee87d5033f6
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup

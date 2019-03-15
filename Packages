@@ -33,17 +33,17 @@ Author: Autobup
 Name: autoleadapp10
 
 Package: com.autobup.autoleadios.public.v3
-Version: 1.7.5-4
+Version: 1.7.6-8
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
-Pre-Depends: com.autobup.hookapp,com.yourepo.nam4am1.xcon,jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger,jetslammed,curl,network-cmds
+Pre-Depends: com.autobup.hookapp,com.yourepo.nam4am1.xcon, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,org.cydia.kiimo.autotouch1,com.hackyouriphone.ios8
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<< 11.4.1), openssh, com.exile90.icleanerpro
-Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.7.5-4_iphoneos-arm.deb
-Size: 185216
-MD5sum: 608788a3c52959711bcfcf4088860b3c
-SHA1: ec0672b0aed2cdec9be16b137395073fa28a47ae
-SHA256: ed012630b0de49b13161836ed0672e2bacb065f9b093c395a4ec21cf112cd7c5
+Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.7.6-8_iphoneos-arm.deb
+Size: 183756
+MD5sum: 58ea5edd6d0430b28a7f6fcf04ab1548
+SHA1: 3995f70364f87202ad2940a542d654db570c0a88
+SHA256: 3acb9bc683d94641f135a4c47c55fa400c73e04be507381f1f0035bf1b659fb3
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup

@@ -102,6 +102,23 @@ Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
+Package: com.hackyouriphone.cracktool3
+Version: 3.0~beta11
+Architecture: iphoneos-arm
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./Files/cracktool/com.hackyouriphone.cracktool3_3.0~beta11.deb
+Size: 165368
+MD5sum: 7e4fc5c357e2733847dc5466f7eb8db8
+SHA1: 3862e6f9879643fe2a47e0c171fd1702e3287454
+SHA256: 92c534cad6dfa844362b14b53f97fc8f48542389c7e1d90d084d571771dbd952
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=cracktool3
+Description: Crack Tweaks On 1 Touch. arm64. Any Issue Try Reinstall and/or Run CT3 In Safe Mode.
+Author: julioverne <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=cracktool3
+Name: CrackTool3 (iOS 11)
+
 Package: com.hackyouriphone.ios8
 Version: 4.3.0-7
 Architecture: iphoneos-arm

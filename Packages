@@ -15,37 +15,20 @@ Description: Get ADVID,Fix SSH Yalu, move file config fake system to tmp........
 Author: Autobup
 Name: autoleadapp_anhkhoa
 
-Package: com.autobup.autoleadios.public.v1
-Version: 1.7.7-1
-Architecture: iphoneos-arm
-Maintainer: nam4am@gmail.com
-Installed-Size: 644
-Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
-Depends: mobilesubstrate,firmware (>=10),firmware (<=10.2),org.coolstar.scp-sftp-dropbear,com.exile90.icleanerpro
-Filename: ./Files/autoleadios/v1/com.autobup.autoleadios.public.v1_1.7.7-1_iphoneos-arm.deb
-Size: 183756
-MD5sum: febcd9054f06bc07d9d9fe39371d61d0
-SHA1: 56926780e3981da1b0b75529813db3147df50a6b
-SHA256: 523a21e785f778d9486282207dcdc6871b9a8e5b5a21b80430c488b0bf1b2cfa
-Section: Offer
-Description: iOS: 10.0 - 10.2
-Author: Autobup
-Name: autoleadapp10
-
 Package: com.autobup.autoleadios.public.v2
-Version: 1.7.7-2
+Version: 1.7.7-3
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
-Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.exile90.icleanerpro
-Filename: ./Files/autoleadios/v2/com.autobup.autoleadios.public.v2_1.7.7-2_iphoneos-arm.deb
-Size: 183770
-MD5sum: ea5cfa93daf29cebf135a5fe86e6b699
-SHA1: 5af395c8fa3d1ecf9364885ddd8262f6cd1b722a
-SHA256: 98c7f3a8cc1495f20086036d8e8c4174a7f81d6cb8d1d8297d72f1f5cd4553dd
+Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.exile90.icleanerpro
+Filename: ./Files/autoleadios/v2/com.autobup.autoleadios.public.v2_1.7.7-3_iphoneos-arm.deb
+Size: 183776
+MD5sum: ba50285a10e56c3857c87b51f62aa6ed
+SHA1: 1f1cb838a1136098b641e0ffa0c94e3669cd36ed
+SHA256: d0eba14d6b4ae41c340395c0bea5322b6cfeae37d2c2cf7a5704a6504cad9272
 Section: Offer
-Description: iOS: 10.3 - 10.3.3
+Description: iOS: 10.0 - 10.3.3
 Author: Autobup
 Name: autoleadapp10
 

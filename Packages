@@ -1,19 +1,36 @@
-Package: com.autobup.autoleadios
-Version: 1.7.4-246
+Package: com.autobup.autoleadios.ak.v2
+Version: 1.7.7-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
-Pre-Depends: jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger,jetslammed,curl, network-cmds
-Depends: firmware (>=8.0),mobilesubstrate
-Filename: ./Files/fullserver/com.autobup.autoleadios_1.7.4-246_iphoneos-arm.deb
-Size: 185626
-MD5sum: c86b59e4140e61e57affa5d2ae19f39c
-SHA1: a46d070e8f52deece6e970ad0920c3716c6b59e4
-SHA256: 9901469fb67936a060fca01bd99162f0c4967f6039989ada302f00c882e8f8bf
+Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
+Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.exile90.icleanerpro
+Filename: ./Files/fullserver/AK/v2/com.autobup.autoleadios.ak.v2_1.7.7-1_iphoneos-arm.deb
+Size: 183900
+MD5sum: 8fa61e0adb1d81f45337ab946f5774bb
+SHA1: aea50d7fcede1fc9d8e900c6cde078d96f47aa7a
+SHA256: 9e52d898989b4be9df4e8337b879669d2d5539563967d746d78edc1e937efbb0
 Section: ServerFull
-Description: Get ADVID,Fix SSH Yalu, move file config fake system to tmp........................................................
+Description: iOS: 10.0 - 10.3.3
 Author: Autobup
-Name: autoleadapp_anhkhoa
+Name: autoleadapp_AK_10
+
+Package: com.autobup.autoleadios.ak.v3
+Version: 1.7.7-1
+Architecture: iphoneos-arm
+Maintainer: nam4am@gmail.com
+Installed-Size: 644
+Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
+Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh, com.exile90.icleanerpro
+Filename: ./Files/fullserver/AK/v3/com.autobup.autoleadios.ak.v3_1.7.7-1_iphoneos-arm.deb
+Size: 183866
+MD5sum: cb525234f5e14c61ad27dff41c05fe76
+SHA1: 666f51bdfef541db723a82878b1f57a99bcf8e97
+SHA256: ac0087531e124059d29d53e425cdc688e8599ba7b03169d421150b509db16f21
+Section: ServerFull
+Description: iOS: 11.0 - 11.4.1
+Author: Autobup
+Name: autoleadapp_AK_11
 
 Package: com.autobup.autoleadios.public.v2
 Version: 1.7.7-11

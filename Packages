@@ -83,6 +83,23 @@ Description: iOS: 12.0 - 12.1.2 (Chỉ dành cho TestTeam)
 Author: Autobup
 Name: autoleadapp12
 
+Package: com.autobup.changeinfo
+Version: 1.7.4-4
+Architecture: iphoneos-arm
+Maintainer: nam4am@autobup.com
+Installed-Size: 776
+Pre-Depends: jp.ashikase.mousesupport, SQLite3, kr.iolate.simulatetouch, com.rbt.useragentchanger, jetslammed,curl, network-cmds
+Depends: firmware (>=9.0),mobilesubstrate
+Filename: ./Files/adstool/com.autobup.changeinfo_1.7.4-4_iphoneos-arm.deb
+Size: 285888
+MD5sum: e75576e2ef3bca93227c8a3a3a60a78d
+SHA1: c15ba8a5b40a810292e190c5c3ef3257b590104e
+SHA256: b76865a18a0b4ce2e591444d857184a74fe8491e73fc04f6598c21d7bdcde71c
+Section: AdsTool
+Description: Controler device for Autobup tool!
+Author: Autobup
+Name: AdsTool
+
 Package: com.autobup.hookapp
 Version: 1.3.3-2
 Architecture: iphoneos-arm

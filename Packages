@@ -1,32 +1,32 @@
 Package: com.autobup.autoleadios.ak.v2
-Version: 1.7.7-2
+Version: 1.7.7-4
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear
-Filename: ./Files/fullserver/AK/v2/com.autobup.autoleadios.ak.v2_1.7.7-2_iphoneos-arm.deb
-Size: 183906
-MD5sum: 25e347abc326f11224cfb49bac737a37
-SHA1: d9417e63cedacb35078224be8ccd10e9f1502137
-SHA256: e0630001368453dc9d2d58ae26059110b7cf3f3c1b8950a85f30413b2bdd66b8
+Filename: ./Files/fullserver/AK/v2/com.autobup.autoleadios.ak.v2_1.7.7-4_iphoneos-arm.deb
+Size: 183438
+MD5sum: 4ad483ffa52032f90ae5a32534ca4d98
+SHA1: 2fb712d431a55f0fa1f5b682f9a6e5e781ef3962
+SHA256: 1846e4400ee04681f173207b2c52beabd1a681bf7d2eb650d0e51016bf348c23
 Section: ServerFull
 Description: iOS: 10.0 - 10.3.3
 Author: Autobup
 Name: autoleadapp_AK_10
 
 Package: com.autobup.autoleadios.ak.v3
-Version: 1.7.7-3
+Version: 1.7.7-4
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh
-Filename: ./Files/fullserver/AK/v3/com.autobup.autoleadios.ak.v3_1.7.7-3_iphoneos-arm.deb
-Size: 183886
-MD5sum: 1aa729ea756d5f62c1eb9b0a595ad354
-SHA1: 6da883652ef58cc846941d9f135ddec0021e55a2
-SHA256: f40dfd867aec58f2b84c1dad3bb6f19ea0cb4ea6e987fcf633eaaa167cffda31
+Filename: ./Files/fullserver/AK/v3/com.autobup.autoleadios.ak.v3_1.7.7-4_iphoneos-arm.deb
+Size: 183408
+MD5sum: 04050392ca3db393758cc21b3cdcfef0
+SHA1: 622d3e4401c3afadf7e22560a026cdbad6c46002
+SHA256: 5113900a03ceb1c401c652e886700c4f257e4fc52752ba97e6f628a8a2627c8b
 Section: ServerFull
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup

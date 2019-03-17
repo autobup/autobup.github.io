@@ -1,66 +1,66 @@
 Package: com.autobup.autoleadios.ak.v2
-Version: 1.7.7-1
+Version: 1.7.7-2
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
-Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
-Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.exile90.icleanerpro
-Filename: ./Files/fullserver/AK/v2/com.autobup.autoleadios.ak.v2_1.7.7-1_iphoneos-arm.deb
-Size: 183900
-MD5sum: 8fa61e0adb1d81f45337ab946f5774bb
-SHA1: aea50d7fcede1fc9d8e900c6cde078d96f47aa7a
-SHA256: 9e52d898989b4be9df4e8337b879669d2d5539563967d746d78edc1e937efbb0
+Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
+Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear
+Filename: ./Files/fullserver/AK/v2/com.autobup.autoleadios.ak.v2_1.7.7-2_iphoneos-arm.deb
+Size: 183906
+MD5sum: 25e347abc326f11224cfb49bac737a37
+SHA1: d9417e63cedacb35078224be8ccd10e9f1502137
+SHA256: e0630001368453dc9d2d58ae26059110b7cf3f3c1b8950a85f30413b2bdd66b8
 Section: ServerFull
 Description: iOS: 10.0 - 10.3.3
 Author: Autobup
 Name: autoleadapp_AK_10
 
 Package: com.autobup.autoleadios.ak.v3
-Version: 1.7.7-1
+Version: 1.7.7-3
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
-Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
-Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh, com.exile90.icleanerpro
-Filename: ./Files/fullserver/AK/v3/com.autobup.autoleadios.ak.v3_1.7.7-1_iphoneos-arm.deb
-Size: 183866
-MD5sum: cb525234f5e14c61ad27dff41c05fe76
-SHA1: 666f51bdfef541db723a82878b1f57a99bcf8e97
-SHA256: ac0087531e124059d29d53e425cdc688e8599ba7b03169d421150b509db16f21
+Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
+Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh
+Filename: ./Files/fullserver/AK/v3/com.autobup.autoleadios.ak.v3_1.7.7-3_iphoneos-arm.deb
+Size: 183886
+MD5sum: 1aa729ea756d5f62c1eb9b0a595ad354
+SHA1: 6da883652ef58cc846941d9f135ddec0021e55a2
+SHA256: f40dfd867aec58f2b84c1dad3bb6f19ea0cb4ea6e987fcf633eaaa167cffda31
 Section: ServerFull
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
 Name: autoleadapp_AK_11
 
 Package: com.autobup.autoleadios.public.v2
-Version: 1.7.7-11
+Version: 1.7.7-19
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
-Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
-Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.exile90.icleanerpro
-Filename: ./Files/autoleadios/v2/com.autobup.autoleadios.public.v2_1.7.7-11_iphoneos-arm.deb
-Size: 183890
-MD5sum: e16e7f23ea8a24239856a8886e3ff99c
-SHA1: bff4a01387f7d3623c33cad3809ecd874ece042c
-SHA256: aceeb8e4619927155790f6034b84c5c8f715ccd4306514e7b304df0c41b364e5
+Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
+Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear
+Filename: ./Files/autoleadios/v2/com.autobup.autoleadios.public.v2_1.7.7-19_iphoneos-arm.deb
+Size: 183918
+MD5sum: 2292f3a9d9883cbba0216963bc92fc6c
+SHA1: 2031eefb5ff159324a4a1c0cd4767e9812c33de2
+SHA256: 606a18da165dcacc8a7bc80fbfb22cd0a41797a5531b22b094bd0a5cf7db04ef
 Section: Offer
 Description: iOS: 10.0 - 10.3.3
 Author: Autobup
 Name: autoleadapp10
 
 Package: com.autobup.autoleadios.public.v3
-Version: 1.7.7-9
+Version: 1.7.7-18
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
-Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
-Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh, com.exile90.icleanerpro
-Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.7.7-9_iphoneos-arm.deb
-Size: 183850
-MD5sum: ba871188fa045c53bf3535052b82c1f3
-SHA1: 032f221f33ad702ee277d4e4cd7dacfc5f516675
-SHA256: 84be211c81e3221a37f553403a39ff2304103a9ec49489e437b121a57fc58f07
+Pre-Depends: com.autobup.hookapp,SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
+Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh
+Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.7.7-18_iphoneos-arm.deb
+Size: 183874
+MD5sum: c11c32a00f8b240d15c95b776202031d
+SHA1: 6102a5098ad1e30f9e1b3996d9b15ca08d7ea065
+SHA256: 0ab8cccd45b1ff727c04f386f844f8b66795a8f9937e760750c655ec806b6e5e
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
@@ -233,21 +233,6 @@ Section: Game
 Description: Don't hook App and TS, Support for hook package auto, only itune.
 Author: Namle
 Name: AutoLeadHookItunes
-
-Package: com.yourepo.nam4am1.xcon
-Version: 42~beta3
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Filename: ./Files/bypassjp/com.yourepo.nam4am1.xcon_42~beta3_iphoneos-arm.deb
-Size: 136156
-MD5sum: 9ffe5c04bdea94257a533c2c77267746
-SHA1: 32b15a9bda8438e2adc84b726d44a6ffa64e67fc
-SHA256: 16a18f777a86d63808fbdae60aabea612310b8c8b6c9c1e22a0119097b9ad132
-Section: Tweaks
-Description: Util support for autoporo .............................
-Author: Lunatik <nam4am@mail-vl.com>
-Name: xCon
 
 Package: org.coolstar.scp-sftp-dropbear
 Version: 1.0.2

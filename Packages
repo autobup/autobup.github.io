@@ -1,66 +1,66 @@
 Package: com.autobup.autoleadios.ak.v2
-Version: 1.7.8-1
+Version: 1.8.0-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear
-Filename: ./Files/fullserver/AK/v2/com.autobup.autoleadios.ak.v2_1.7.8-1_iphoneos-arm.deb
-Size: 183972
-MD5sum: 3da64b8bde3280d9d88e4ac0eb21eebd
-SHA1: 4d0063230f49c5ef5214f87d8f1cd44d0e7aee47
-SHA256: ab601e177c1b3149874300ba257637f030307585e41a377dcb34eca0d1b404ff
+Filename: ./Files/fullserver/AK/v2/com.autobup.autoleadios.ak.v2_1.8.0-1_iphoneos-arm.deb
+Size: 184010
+MD5sum: af0f204f41a0f49730b4df6452369448
+SHA1: b8cab80e55a51bbb93676c23fc03c4b130b22fbb
+SHA256: f0d8e16e9a46eb4c1f56870eafbdc71279c5179c84b87948e5a1f86f806f9543
 Section: ServerFull
 Description: iOS: 10.0 - 10.3.3
 Author: Autobup
 Name: autoleadapp_AK_10
 
 Package: com.autobup.autoleadios.ak.v3
-Version: 1.7.8-1
+Version: 1.8.0-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh
-Filename: ./Files/fullserver/AK/v3/com.autobup.autoleadios.ak.v3_1.7.8-1_iphoneos-arm.deb
-Size: 183940
-MD5sum: 0f105e69ee8ccff523fa264f33285df2
-SHA1: 1b3f47147835f9d05908231e9ef86f0113c35931
-SHA256: cbd2f200266de669b507c671ac6831fad3cad6b2e79fc0abab0fe890d8bd23f1
+Filename: ./Files/fullserver/AK/v3/com.autobup.autoleadios.ak.v3_1.8.0-1_iphoneos-arm.deb
+Size: 183974
+MD5sum: 7e2c99daf5f54adf842dc6a9d331dc93
+SHA1: 8bb0b6c6b0f8913d2b3471e5b890738ce6b25da3
+SHA256: 98a98a00323d4fda77f912b49aac0a2f31b93e5f0d75cd173dd433731d51df2c
 Section: ServerFull
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
 Name: autoleadapp_AK_11
 
 Package: com.autobup.autoleadios.public.v2
-Version: 1.7.8-1
+Version: 1.8.0-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear
-Filename: ./Files/autoleadios/v2/com.autobup.autoleadios.public.v2_1.7.8-1_iphoneos-arm.deb
-Size: 183966
-MD5sum: b0c16b40800245ded096ca4d6692a484
-SHA1: dd3ddfef09144d162dbd0f4e3af0d41aef39c492
-SHA256: dde1d857f25d0f0bb8b055e96fcf78589a9554ef89d2ec126192097259fe3649
+Filename: ./Files/autoleadios/v2/com.autobup.autoleadios.public.v2_1.8.0-1_iphoneos-arm.deb
+Size: 183990
+MD5sum: 18b69afaa66ce8a92d9a69da8bde144a
+SHA1: 137a71a28c1829b14115cf1b1c4d40df2cc39de5
+SHA256: 897c469c981fa5efd8874b6be49c6af2dd5deace3b2dee3a41f5c29713c2978a
 Section: Offer
 Description: iOS: 10.0 - 10.3.3
 Author: Autobup
 Name: autoleadapp10
 
 Package: com.autobup.autoleadios.public.v3
-Version: 1.7.8-1
+Version: 1.8.0-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 644
 Pre-Depends: com.autobup.hookapp,SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh
-Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.7.8-1_iphoneos-arm.deb
-Size: 183932
-MD5sum: b03f07e22ee854386b85ebc746c12728
-SHA1: bbd519a3dfbf383bfbd688551969ea2dfc953fc8
-SHA256: d5e16d96b56030bac84de4d30d761b9b747f9d291423658a248b0332151a5650
+Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.8.0-1_iphoneos-arm.deb
+Size: 183958
+MD5sum: cd6c628d469295595d363424149bd7bc
+SHA1: 67ffba90a24c5b1e56aac7dba28ca1be0fff25bd
+SHA256: 61b4b9cd96a8f170cb1db7ac1ef6e9411fd6ed8134ccb4af5028d8b39da50445
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup

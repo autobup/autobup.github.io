@@ -33,34 +33,34 @@ Author: Autobup
 Name: autoleadapp_AK_11
 
 Package: com.autobup.autoleadios.public.v2
-Version: 1.8.1-2
+Version: 1.8.2-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 644
+Installed-Size: 628
 Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear
-Filename: ./Files/autoleadios/v2/com.autobup.autoleadios.public.v2_1.8.1-2_iphoneos-arm.deb
-Size: 183370
-MD5sum: cccc6e04616f522734a14f8339eef53c
-SHA1: e02fb40f39dc245aeea67982839b528d88519b5e
-SHA256: 3d569f63347ec18356d77f232bac69f3fd7c460c8c4ccdb5012d4c152cc90036
+Filename: ./Files/autoleadios/v2/com.autobup.autoleadios.public.v2_1.8.2-1_iphoneos-arm.deb
+Size: 180730
+MD5sum: cbc559273c831b0646728cd4b423d714
+SHA1: c497213d687a90cd4a0e16782f7b529da7a2e24e
+SHA256: f95f56847a8a95c4c10d7b11860d882e8f65411c5988b71fadf6cf968d04a143
 Section: Offer
 Description: iOS: 10.0 - 10.3.3
 Author: Autobup
 Name: autoleadapp10
 
 Package: com.autobup.autoleadios.public.v3
-Version: 1.8.1-1
+Version: 1.8.2-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 644
+Installed-Size: 628
 Pre-Depends: com.autobup.hookapp,SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh
-Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.8.1-1_iphoneos-arm.deb
-Size: 183336
-MD5sum: 2df4a4c138051a6268fba37e738aeebc
-SHA1: 56687040361a2cfd14208f0e893471ef8fee6236
-SHA256: 1ddb930a85c53792ade5e4f4bebb601149a1eec1979eeecf7f5f328bdddde532
+Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.8.2-1_iphoneos-arm.deb
+Size: 180694
+MD5sum: 255c0c486ce81ba0be6913c198642805
+SHA1: 8a83072c89a98c184bd5122091f70d21f4d83812
+SHA256: b0679cba7812c2fbddde664cf1784e5a4273e978934bf593aa1b36948068ac39
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup

@@ -1,19 +1,36 @@
-Package: com.autobup.autoleadios.ak.v2
+Package: com.autobup.autoleadios.ak.v1
 Version: 1.8.5-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 628
 Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
-Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.ak.v2_1.8.5-1_iphoneos-arm.deb
-Size: 180710
-MD5sum: f91acaa0cea2a5a7c6a4274031098c80
-SHA1: fbdb014060d63f67d37bbf75fc074ff5fe680a13
-SHA256: 6ac80f70f6efb905c06e09db06d534fd9e8d861ed9f09e9de3cd2637af6e957f
+Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.ak.v1_1.8.5-1_iphoneos-arm.deb
+Size: 180700
+MD5sum: 3b1a7ec92751fa9293764f4880b8803f
+SHA1: ae7ce667ff1d2872c6e536fd193cc4838906ca66
+SHA256: d9b9003b771c38d4c08df536e5830e56d9aea89bb001671da33d29478c4b78f4
 Section: Offer
-Description: iOS: 10.0 - 10.3.3
+Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp_AK_10
+
+Package: com.autobup.autoleadios.ak.v2
+Version: 1.8.5-4
+Architecture: iphoneos-arm
+Maintainer: nam4am@gmail.com
+Installed-Size: 628
+Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
+Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.ak.v2_1.8.5-4_iphoneos-arm.deb
+Size: 180708
+MD5sum: 9af756492d250f4854720caa030b4287
+SHA1: af580f6f8474b7341eb5eed1245c72805245cec9
+SHA256: eb990a617e8a03c09443d7e846a638e90c81c6a9db09ba45f0153e29eeaa1a74
+Section: Offer
+Description: iOS: 10.2 - 10.3.3
+Author: Autobup
+Name: autoleadapp_AK_10.3
 
 Package: com.autobup.autoleadios.ak.v3
 Version: 1.8.5-1

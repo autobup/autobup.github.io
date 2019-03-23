@@ -1,19 +1,36 @@
-Package: com.autobup.autoleadios.xuanhanh.v2
+Package: com.autobup.autoleadios.xuanhanh.v1
 Version: 1.8.5-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 628
 Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
-Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.xuanhanh.v2_1.8.5-1_iphoneos-arm.deb
-Size: 180716
-MD5sum: e228b2b2517703833df80d74fc085a62
-SHA1: 4ff5eeef6b6bd524893755ac91b2b74a70bd123a
-SHA256: b6f1b7f38c9019eb8e3ac5583839886de3e3bcfae18a109460f0122a35f8e3c3
-Section: xuanhanh
-Description: iOS: 10.0 - 10.3.3
+Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.xuanhanh.v1_1.8.5-1_iphoneos-arm.deb
+Size: 180704
+MD5sum: 4cd3db444a11ca2155b9e2ad0f314292
+SHA1: 57959e172c7097f00b2def9345ca9f836bcbe097
+SHA256: c290e5bb2e964b1888f28abfa10cf7da2778dfc79c80fef419e13de2737c38c4
+Section: Offer
+Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp_xuananh_10
+
+Package: com.autobup.autoleadios.xuanhanh.v2
+Version: 1.8.5-4
+Architecture: iphoneos-arm
+Maintainer: nam4am@gmail.com
+Installed-Size: 628
+Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
+Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.xuanhanh.v2_1.8.5-4_iphoneos-arm.deb
+Size: 180716
+MD5sum: f410c92c24de1c1a43e5fe427d7443ae
+SHA1: 36596de0226cf16fe0bc947f76ff5a2d556bdb7c
+SHA256: 7f9e5e604897287abbe0bcaf76f64cad136b279308191bc1b8bdc1907f8c7ca6
+Section: Offer
+Description: iOS: 10.2 - 10.3.3
+Author: Autobup
+Name: autoleadapp_xuananh_10.3
 
 Package: com.autobup.autoleadios.xuanhanh.v3
 Version: 1.8.5-1

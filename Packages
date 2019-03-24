@@ -1,49 +1,49 @@
 Package: com.autobup.autoleadios.public.v1
-Version: 1.8.5-3
+Version: 1.8.6-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 628
-Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
-Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear
-Filename: ./Files/autoleadios/v1/com.autobup.autoleadios.public.v1_1.8.5-3_iphoneos-arm.deb
-Size: 180708
-MD5sum: 5adca4c8fb3735926e46093918c24a60
-SHA1: c4c45a3413f5f87317441006606f8f5a3532ab53
-SHA256: 02e91ebfb1a0186c789e4205601b0aea34e51608eec6930677c7cf0cd3949c5f
+Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
+Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite
+Filename: ./Files/autoleadios/v1/com.autobup.autoleadios.public.v1_1.8.6-1_iphoneos-arm.deb
+Size: 180806
+MD5sum: e365426c70acd4e4301614da03b5a138
+SHA1: 01ed4ecea746c8a91ba9bfeb991026c677e56b14
+SHA256: e9a78601e2af075e96c7008ab22b955964dbea5b1803f78d584b963447193c1f
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp10
 
 Package: com.autobup.autoleadios.public.v2
-Version: 1.8.5-3
+Version: 1.8.6-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 628
-Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
-Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear
-Filename: ./Files/autoleadios/v2/com.autobup.autoleadios.public.v2_1.8.5-3_iphoneos-arm.deb
-Size: 180708
-MD5sum: c9ac1de7eaa0e083651b5e26c28b8d10
-SHA1: 77ee13926753ff25809fd40cae265e5bbbb862ec
-SHA256: 8527015d5812273adcdb08b612ee71f0108f6f716d9613554202a4dce1837e41
+Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
+Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite
+Filename: ./Files/autoleadios/v2/com.autobup.autoleadios.public.v2_1.8.6-1_iphoneos-arm.deb
+Size: 180814
+MD5sum: c4b78b07ea3db81d5ba0728da19ff6d2
+SHA1: 2bc682e11ab967a393f239b9fe64cf1455445e50
+SHA256: f4d03814dea7a4f3a3c1cde0ebf5089631336b8efdb3fc7210634238383702f4
 Section: Offer
 Description: iOS: 10.2 - 10.3.3
 Author: Autobup
 Name: autoleadapp10.3
 
 Package: com.autobup.autoleadios.public.v3
-Version: 1.8.5-11
+Version: 1.8.6-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 628
-Pre-Depends: com.autobup.hookapp,SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
-Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh
-Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.8.5-11_iphoneos-arm.deb
-Size: 180686
-MD5sum: 5c678d0f83392dcd3a7a6d2e33fe24d3
-SHA1: fbb17d3fcefc7e8f6e27be5ce4a5ae79f6436f5a
-SHA256: 5448a46e2f7c74268f5ada966c403b8740a59539588d81dbdea060cc513eefbb
+Pre-Depends: com.autobup.hookapp,SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
+Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4), openssh, com.ryleyangus.libertylite
+Filename: ./Files/autoleadios/v3/com.autobup.autoleadios.public.v3_1.8.6-1_iphoneos-arm.deb
+Size: 180780
+MD5sum: 95b5635d60d0e0fbbdb310cc19175a7d
+SHA1: 4816950e767ea4335a5ac711d826e034e46a0cbd
+SHA256: 162510255414efcb2c2a5ee454ff8c33ac4d0dce19aa41831c88d9a0927162cf
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup

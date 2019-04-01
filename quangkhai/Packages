@@ -1,50 +1,50 @@
 Package: com.autobup.autoleadios.quangkhai.v1
-Version: 1.8.5-1
+Version: 1.8.6-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 628
-Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
+Pre-Depends: com.autobup.hookapp, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.quangkhai.v1_1.8.5-1_iphoneos-arm.deb
-Size: 180824
-MD5sum: 1df35d6114578519da786309dd70c940
-SHA1: 975336242730bcdfb331a4368f5c1e0a5f6c7d42
-SHA256: 18d9f79062b0a11381ac12a8fdd548d12d498b3cf2e7d10c0fb27bebb7d6abff
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.quangkhai.v1_1.8.6-1_iphoneos-arm.deb
+Size: 179622
+MD5sum: 7168b53d8da7d3c7c7a36da7288bb63d
+SHA1: 863779a0200103ec0c245404cd96a4dc223bc8e0
+SHA256: 50ebd250d3642858ffbeb44c9bb4b7965d27c1198f1359715ed70f9bb8663066
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp_quangkhai_10.2
 
 Package: com.autobup.autoleadios.quangkhai.v2
-Version: 1.8.5-3
+Version: 1.8.6-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 628
-Pre-Depends: com.autobup.hookapp, SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
+Pre-Depends: com.autobup.hookapp, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.quangkhai.v2_1.8.5-3_iphoneos-arm.deb
-Size: 180826
-MD5sum: f4a0f753073770590623e625b6145fca
-SHA1: 5c12aae4b2de3fa987c64eb9cb2d3ceca13494b5
-SHA256: 9d6590f1afdc105a044862913e31e5ad828d55daaa292f06c854d0628f704d94
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.quangkhai.v2_1.8.6-1_iphoneos-arm.deb
+Size: 179632
+MD5sum: b6d76ee6e0828aa3ffa2e862bf3543e3
+SHA1: 6dcda486ffa5dc759819ff90f08e4ed0ce65f403
+SHA256: 29f7a1ea79491ae609a834e42bf4dc04a2b8fdb84e83931e8e143f26592bb668
 Section: Offer
 Description: iOS: 10.2 - 10.3.3
 Author: Autobup
 Name: autoleadapp_quangkhai_10.3
 
 Package: com.autobup.autoleadios.quangkhai.v3
-Version: 1.8.5-1
+Version: 1.8.6-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 628
-Pre-Depends: com.autobup.hookapp,SQLite3,sudo, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
+Pre-Depends: com.autobup.hookapp,SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3,com.ryleyangus.libertylite
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.quangkhai.v3_1.8.5-1_iphoneos-arm.deb
-Size: 180800
-MD5sum: fdd5805260ac2ff5c809e2252629e2f3
-SHA1: c173386fb728627cbd928e6da84ce51d3931f4fb
-SHA256: 25d6828b1f98d6288d3944e092a3b7bd60ed9123c9ce38c7da3a7c0ebab0df9b
-Section: Offer
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.quangkhai.v3_1.8.6-1_iphoneos-arm.deb
+Size: 179598
+MD5sum: c01020b481f71a2464899e21bd32717d
+SHA1: 406045650ab198fb6b92ba092ac981193560ee2a
+SHA256: 905b2cecd18f15de2099e5a3a64b3402261cde32c87cd2534ed2a33e66c787ce
+Section: xuanhanh
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
 Name: autoleadapp_quangkhai_11

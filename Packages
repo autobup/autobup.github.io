@@ -149,6 +149,22 @@ Section: System
 Description: Dropbear SSH for 32 and 64 bit devices. Use with an SSH tunnel to SSH via USB (Wi-Fi SSH is not enabled by default.)
 Name: Dropbear
 
+Package: com.nablac0d3.sslkillswitch2
+Version: 0.12-3+debug
+Architecture: iphoneos-arm
+Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
+Installed-Size: 128
+Depends: mobilesubstrate, preferenceloader
+Filename: ./Files/sslkill/com.nablac0d3.sslkillswitch2_0.12.deb
+Size: 8024
+MD5sum: 3c655099f43337b5ef273e83dea7eb8f
+SHA1: d89ce355b24bed9d2b490f17baaac159b17bbbc0
+SHA256: a3280f2707c4fe00cc5d45c6901773fc883e0777f32b1e17454b2b5ed28a5c5c
+Section: Tweaks
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Author: Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSL Kill Switch 2
+
 Package: com.namlh.autobup
 Version: 0.1.1-1
 Architecture: iphoneos-arm

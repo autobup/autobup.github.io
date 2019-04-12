@@ -1,0 +1,168 @@
+Package: com.autobup.autoleadios.xuanhanh.v1
+Version: 1.9.0-2
+Architecture: iphoneos-arm
+Maintainer: nam4am@gmail.com
+Installed-Size: 700
+Pre-Depends: com.autobup.hookapp, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
+Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.xuanhanh.v1_1.9.0-2_iphoneos-arm.deb
+Size: 187398
+MD5sum: 466b89548e0dbe397e2ad7dcf8a35fd2
+SHA1: 566a00772009f3250415c6aeea70d3ec2c5ea0f1
+SHA256: fd6c914175560b137821b047133a2d63c63582e0fcc489dedda91cc6d955cd54
+Section: Offer
+Description: iOS: 10.0 - 10.2
+Author: Autobup
+Name: autoleadapp_xuanhanh_10
+
+Package: com.autobup.autoleadios.xuanhanh.v2
+Version: 1.9.0-2
+Architecture: iphoneos-arm
+Maintainer: nam4am@gmail.com
+Installed-Size: 700
+Pre-Depends: com.autobup.hookapp, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
+Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.xuanhanh.v2_1.9.0-2_iphoneos-arm.deb
+Size: 187408
+MD5sum: 87be2ba9537b9642a3dbb53664fb8409
+SHA1: 1b449dcbfef0aac6bd4d0867cb2cd5c251b60e42
+SHA256: 3f02b94c54f1d4b1c80c48fc7236cdde4709027495b454afc742ad467e2de6ed
+Section: Offer
+Description: iOS: 10.2 - 10.3.3
+Author: Autobup
+Name: autoleadapp_xuanhanh_10.3
+
+Package: com.autobup.autoleadios.xuanhanh.v3
+Version: 1.9.0-2
+Architecture: iphoneos-arm
+Maintainer: nam4am@gmail.com
+Installed-Size: 700
+Pre-Depends: com.autobup.hookapp,SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
+Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4), openssh, com.ryleyangus.libertylite
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.xuanhanh.v3_1.9.0-2_iphoneos-arm.deb
+Size: 187380
+MD5sum: 2256a7cd3a7a259e275509d42f688d8b
+SHA1: 80778d18604e51b92380a003309de4200909379d
+SHA256: ff92e019f4369cfb5a1e0851dd6c55b577560ddb92787634572bb66595a34fac
+Section: Offer
+Description: iOS: 11.0 - 11.4.1
+Author: Autobup
+Name: autoleadapp_xuanhanh_11
+
+Package: com.autobup.hookapp
+Version: 1.3.5-1
+Architecture: iphoneos-arm
+Maintainer: nam4am@autobup.com
+Installed-Size: 256
+Depends: firmware (>=9.0),mobilesubstrate
+Filename: ./Files/hookapp/com.autobup.hookapp_1.3.5-1_iphoneos-arm.deb
+Size: 60288
+MD5sum: 0d0de2ce638858f1e160795bff2205f2
+SHA1: b8df832db7db66a99e7c25eb0d4b7b6256881d20
+SHA256: bdc136e081428ecf2dbdb2cdbce6615ed00efa7daa19d2d25bb136c263179331
+Section: Offer
+Description: Support for hook package auto, only App.
+Author: Autobup
+Name: HookApp
+
+Package: com.exile90.icleanerpro
+Version: 7.7.2
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./Files/icleanPro/com.exile90.icleanerpro_7.7.2_iphoneos-arm.deb
+Size: 5367576
+MD5sum: 12fcc23b6be7079c7337d9c67b125c7d
+SHA1: 4a100233b48087ab6a13b1000e245ef43fed626e
+SHA256: 9a1044fe16b23d2e93303c8bb4b17d3ca2eb40f53dd7e711b1c48cfc0419f205
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.hackyouriphone.cracktool3
+Version: 3.0~beta11
+Architecture: iphoneos-arm
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./Files/cracktool/com.hackyouriphone.cracktool3_3.0~beta11.deb
+Size: 165368
+MD5sum: 7e4fc5c357e2733847dc5466f7eb8db8
+SHA1: 3862e6f9879643fe2a47e0c171fd1702e3287454
+SHA256: 92c534cad6dfa844362b14b53f97fc8f48542389c7e1d90d084d571771dbd952
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=cracktool3
+Description: Crack Tweaks On 1 Touch. arm64. Any Issue Try Reinstall and/or Run CT3 In Safe Mode.
+Author: julioverne <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=cracktool3
+Name: CrackTool3 (iOS 11)
+
+Package: com.hackyouriphone.ios8
+Version: 4.3.0-7
+Architecture: iphoneos-arm
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: ./Files/autotouch/com.hackyouriphone.ios8_4.3.0-7.deb
+Size: 3397658
+MD5sum: 27f7a7186b302d57f1711b3a0cd6002e
+SHA1: c28ceed5301e0399882cc1bbb368352e499f5b33
+SHA256: 042b7c5b2020346460c0fa9a12a568f7af4acd30be9dfe5174964f24c738575a
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=ios8
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=ios8
+Name: AutoTouch
+
+Package: com.ichitaso.dropbear
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 1.0)
+Filename: ./Files/dropbear/com.ichitaso.dropbear_1.0_iphoneos-arm.deb
+Size: 1443794
+MD5sum: 0d43133f44c23f099452d31601672c60
+SHA1: 900312cb8c43e38f00e56e96df9802dd4215ac59
+SHA256: 4bb0a720e0514c645f2737e9b5831e33c3aa66ada25da6583bec5b22a8e6d8c6
+Section: System
+Description: Dropbear SSH for 32 and 64 bit devices. Use with an SSH tunnel to SSH via USB (Wi-Fi SSH is not enabled by default.)
+Name: Dropbear
+
+Package: com.ryleyangus.libertylite
+Version: 0.2.10
+Architecture: iphoneos-arm
+Maintainer: Ryley Angus
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty
+Filename: ./Files/libertylite/com.ryleyangus.libertylite_0.2.10.deb
+Size: 46610
+MD5sum: de8005d35c2204becf725c327f68e1e5
+SHA1: 434f034c55b792f51216342afd04ab965a614570
+SHA256: 01574e57f52163b9c776c8ea86b03e511b3dcbc0918cdedef9ceedd71e23a9f8
+Section: Tweaks
+Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.
+Author: Ryley Angus
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Name: Liberty Lite
+
+Package: org.coolstar.scp-sftp-dropbear
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: openssl
+Conflicts: openssh
+Filename: ./Files/ftpsfcpfordropbear/org.coolstar.scp-sftp-dropbear_1.0.2_iphoneos-arm.deb
+Size: 196386
+MD5sum: 4221c938339c2e21cd4758e2b4a41212
+SHA1: d7675f2dc6ec58662e85da4a14b9ddf9db7cf312
+SHA256: 2a0253ba7e20ad7bd25f8304f500199bb549b7cbada7279c50aa684f613ecad4
+Section: System
+Description: Add SCP and SFTP for use with dropbear SSH server. (Useful with Yalu jailbreaks).
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: SCP and SFTP for dropbear
+

@@ -1,49 +1,49 @@
 Package: com.autobup.autoleadios.quangkhai.v1
-Version: 1.9.0-6
+Version: 1.9.1-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 700
+Installed-Size: 704
 Pre-Depends: com.autobup.hookapp, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.quangkhai.v1_1.9.0-6_iphoneos-arm.deb
-Size: 187394
-MD5sum: 1b93fe388658ce48347fc1fb50105482
-SHA1: 7551a4ebcdde87239d5c09ee1ba3e98e7731810b
-SHA256: 3f326dcf3b3d78c56139da3efac688cacc3cc5b120b386aaebfac6d8dd7e20bd
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.quangkhai.v1_1.9.1-1_iphoneos-arm.deb
+Size: 193454
+MD5sum: fed522eee58d7bf6dec0a05506d8d22d
+SHA1: 0a74cb9c0fe062fc3433801d87048ee638ad1ece
+SHA256: 4452d21f4362763f76c254139d1a938224be1984d16416b79ada49441f500faf
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp_quangkhai_10
 
 Package: com.autobup.autoleadios.quangkhai.v2
-Version: 1.9.0-6
+Version: 1.9.0-7
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 700
+Installed-Size: 704
 Pre-Depends: com.autobup.hookapp, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.quangkhai.v2_1.9.0-6_iphoneos-arm.deb
-Size: 187402
-MD5sum: 600834c7f27b8c32cc0845e52149d91e
-SHA1: 1ee65ac8ce8d45cd7520bea3bddfea01f3a034e3
-SHA256: 2bcd6af2577e8eb640531e269e54c821f139530bbc758be5237d8dc5efd0e52a
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.quangkhai.v2_1.9.0-7_iphoneos-arm.deb
+Size: 193460
+MD5sum: 77a5ff33be73bd1b665925f2c1b173e0
+SHA1: d953eebe9ce494e5117f739b00519167c3509b54
+SHA256: c2d35b8c3e759312c4464cb25adfd37b27b9631528be9f11698e6cfb85338138
 Section: Offer
 Description: iOS: 10.2 - 10.3.3
 Author: Autobup
 Name: autoleadapp_quangkhai_10.3
 
 Package: com.autobup.autoleadios.quangkhai.v3
-Version: 1.9.0-6
+Version: 1.9.1-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 700
+Installed-Size: 704
 Pre-Depends: com.autobup.hookapp,SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
-Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4), openssh, com.ryleyangus.libertylite
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.quangkhai.v3_1.9.0-6_iphoneos-arm.deb
-Size: 187368
-MD5sum: b0939b47dcdea0df71c7c1517e20da4b
-SHA1: 270c563beba903f34e28d36ebbb66cee9cb40ee3
-SHA256: 75545337c5103f4203db5984b41a48e4b9c968a983fbcd42246c58e57af61c18
+Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh, com.ryleyangus.libertylite
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.quangkhai.v3_1.9.1-1_iphoneos-arm.deb
+Size: 193428
+MD5sum: 95777ccdbadf4fb5ae6f1bad45be7094
+SHA1: 414523ff96eb3119be35ccd069585f8586f20687
+SHA256: 2399de9ae957d7db70d32955192984d1731bf6fccf2a3fe3ffe5e954e3f16890
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup

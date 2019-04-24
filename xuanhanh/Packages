@@ -1,49 +1,49 @@
 Package: com.autobup.autoleadios.xuanhanh.v1
-Version: 1.9.1-1
+Version: 1.9.2-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 704
+Installed-Size: 708
 Pre-Depends: com.autobup.hookapp, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.xuanhanh.v1_1.9.1-1_iphoneos-arm.deb
-Size: 193434
-MD5sum: c201840a8299b6dcf152f2d75234f497
-SHA1: 90250cf6a7598e2e6f0d696fadcce03b48ae6f79
-SHA256: cffbeba50f116001dff9cc8ecf1fee6f20905934892d44ffca84f47810f013d8
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.xuanhanh.v1_1.9.2-1_iphoneos-arm.deb
+Size: 195914
+MD5sum: 0eb1c4c86e36a17784b5e0e3bb9b0be3
+SHA1: f63b649502879e6dfb2026cd4adf671c4aa927fb
+SHA256: c82fef73474375e3900015db2b5fecfc9268cc70d9e28ece9a23e94ea5a14256
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp_xuanhanh_10
 
 Package: com.autobup.autoleadios.xuanhanh.v2
-Version: 1.9.0-7
+Version: 1.9.0-8
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 704
+Installed-Size: 708
 Pre-Depends: com.autobup.hookapp, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.xuanhanh.v2_1.9.0-7_iphoneos-arm.deb
-Size: 193452
-MD5sum: 30509241f31f7e265591a8540127154c
-SHA1: f84b408a4554409c6923cd7ed3f3ed06c7227d26
-SHA256: 51b99605499c99fcdcae4c88acf090162114f1e10b25383596cc2f32bdf127d8
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.xuanhanh.v2_1.9.0-8_iphoneos-arm.deb
+Size: 195920
+MD5sum: 83dfaed164dd5749b9c14d008568c2a9
+SHA1: 83d26f0051989a9731e26517a601dec3c00c512b
+SHA256: cb8b992b3807250b9f78e85e60924651e4798fc29aa26bdb3261278b745897e7
 Section: Offer
 Description: iOS: 10.2 - 10.3.3
 Author: Autobup
 Name: autoleadapp_xuanhanh_10.3
 
 Package: com.autobup.autoleadios.xuanhanh.v3
-Version: 1.9.1-1
+Version: 1.9.2-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 704
+Installed-Size: 708
 Pre-Depends: com.autobup.hookapp,SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh, com.ryleyangus.libertylite
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.xuanhanh.v3_1.9.1-1_iphoneos-arm.deb
-Size: 193426
-MD5sum: cd4e4f1f9142ffb4e32d79e158c93a8d
-SHA1: 9604a81d7b38bc47c7228a3664da160708aead68
-SHA256: 1d463220d34921f84c45cd9d640ad0e0f614122c776a78051bf724aee6c7e6c9
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.xuanhanh.v3_1.9.2-1_iphoneos-arm.deb
+Size: 195890
+MD5sum: a3cbc6150dd8977b5f0206f505f9701a
+SHA1: 99fbc5677a6b2352c5a1c4671cb0809aadc3d9b5
+SHA256: a6d454cd86302ca585cc711b108a52635761a1a597e1d1b36ba223ccb23c0dfc
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup

@@ -1,49 +1,49 @@
 Package: com.autobup.autoleadios.public.v1
-Version: 1.9.2-1
+Version: 1.9.3-2
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 708
-Pre-Depends: com.autobup.hookapp, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
+Installed-Size: 780
+Pre-Depends: com.autobup.hookapp, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.public.v1_1.9.2-1_iphoneos-arm.deb
-Size: 195864
-MD5sum: 3051a0cb9d8092e4f1990ff6b8084ad6
-SHA1: 0f010303a798826e3d22eaa7c505ebc0a06bd1bb
-SHA256: 5f0c83abe22841cd80ab4847a608470dea111fec06e7894e975ea26b19e4c0ba
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.public.v1_1.9.3-2_iphoneos-arm.deb
+Size: 222654
+MD5sum: 7da3983d066770371b9f1df2c44330f4
+SHA1: 89f870bf3f6e83cd39975651eb447da73c7d5dd8
+SHA256: bbd758ebe56be9d30d5d818e8bdce49d66e6bbce4abec978f47dc1da5a5f0052
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp10
 
 Package: com.autobup.autoleadios.public.v2
-Version: 1.9.0-23
+Version: 1.9.3-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 708
-Pre-Depends: com.autobup.hookapp, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
+Installed-Size: 780
+Pre-Depends: com.autobup.hookapp, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.public.v2_1.9.0-23_iphoneos-arm.deb
-Size: 195884
-MD5sum: f2f6bc20132f9dddb95d09a7f5a78643
-SHA1: 563a285abe4cf458f9550da1fc8a21a7907e4ccd
-SHA256: fa3e0e1dc08d0d27751062b120b6f73eed848b3c3ac267567fd0f2b1fbb33a0a
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.public.v2_1.9.3-1_iphoneos-arm.deb
+Size: 222660
+MD5sum: 019924ccd3bcbb812762b141c6cfd937
+SHA1: e6b425a5cda47f9be3aa1034d492e473b3c787c2
+SHA256: bb3cd8d4dc9ba91606e853d76181b67501c609d34ea5431b925cbb86a4acd1df
 Section: Offer
 Description: iOS: 10.2 - 10.3.3
 Author: Autobup
 Name: autoleadapp10.3
 
 Package: com.autobup.autoleadios.public.v3
-Version: 1.9.2-1
+Version: 1.9.3-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 708
-Pre-Depends: com.autobup.hookapp,SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
+Installed-Size: 780
+Pre-Depends: com.autobup.hookapp,SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh, com.ryleyangus.libertylite
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.public.v3_1.9.2-1_iphoneos-arm.deb
-Size: 195846
-MD5sum: 53c471f947963d24fbeb9975f734df11
-SHA1: 437fda8fa4619b5c0d4069f3144af10ae8141647
-SHA256: ce52990c3d5cd724667da84323319a162a6944d2ddea0897b8bec86fbae47e0c
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.public.v3_1.9.3-1_iphoneos-arm.deb
+Size: 222642
+MD5sum: dc87d16308bda886923cac4cad0aabc8
+SHA1: f57b71f8d8521d6da936c228d2f91f1e11a4ca3c
+SHA256: 835e18e3d41f2fd79d287a438c8bab218e14c01f208383c9004fa1ae31cf4f5d
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
@@ -84,16 +84,16 @@ Author: autobup <nam4am@gmail.com>
 Name: controlsupport
 
 Package: com.autobup.hookapp
-Version: 1.3.5-1
+Version: 1.3.5-11
 Architecture: iphoneos-arm
 Maintainer: nam4am@autobup.com
 Installed-Size: 256
 Depends: firmware (>=9.0),mobilesubstrate
-Filename: ./Files/hookapp/com.autobup.hookapp_1.3.5-1_iphoneos-arm.deb
-Size: 60288
-MD5sum: 0d0de2ce638858f1e160795bff2205f2
-SHA1: b8df832db7db66a99e7c25eb0d4b7b6256881d20
-SHA256: bdc136e081428ecf2dbdb2cdbce6615ed00efa7daa19d2d25bb136c263179331
+Filename: ./Files/hookapp/com.autobup.hookapp_1.3.5-11_iphoneos-arm.deb
+Size: 58514
+MD5sum: 3cc0aba4b4ed609c60dc46debde36178
+SHA1: b75c6127b6fa2385f56f73e4c14860f2af3cddec
+SHA256: 6e93a7f066baa215910e099bcd3b9dd4576381b4a8610449e7dd84886c44d59d
 Section: Offer
 Description: Support for hook package auto, only App.
 Author: Autobup

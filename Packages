@@ -1,49 +1,49 @@
 Package: com.autobup.autoleadios.public.v1
-Version: 1.9.3-2
+Version: 1.9.5-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 780
-Pre-Depends: com.autobup.hookapp, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
-Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.public.v1_1.9.3-2_iphoneos-arm.deb
-Size: 222654
-MD5sum: 7da3983d066770371b9f1df2c44330f4
-SHA1: 89f870bf3f6e83cd39975651eb447da73c7d5dd8
-SHA256: bbd758ebe56be9d30d5d818e8bdce49d66e6bbce4abec978f47dc1da5a5f0052
+Pre-Depends: com.autobup.hookapp(>=1.3.6), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
+Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.public.v1_1.9.5-1_iphoneos-arm.deb
+Size: 222638
+MD5sum: f87ae146a5e4e3be975218409471daf8
+SHA1: 8da78e67ad7401bfc8872fa1159e48d370c1710c
+SHA256: c4c451f8b36d95de9ca9b27196e7bac3df2f5b2e71c6a9b1cbff5cc24f4ceab0
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp10
 
 Package: com.autobup.autoleadios.public.v2
-Version: 1.9.3-1
+Version: 1.9.5-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 780
 Pre-Depends: com.autobup.hookapp, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
-Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.public.v2_1.9.3-1_iphoneos-arm.deb
-Size: 222660
-MD5sum: 019924ccd3bcbb812762b141c6cfd937
-SHA1: e6b425a5cda47f9be3aa1034d492e473b3c787c2
-SHA256: bb3cd8d4dc9ba91606e853d76181b67501c609d34ea5431b925cbb86a4acd1df
+Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.public.v2_1.9.5-1_iphoneos-arm.deb
+Size: 222642
+MD5sum: 3bd5c31e8a3df680adde5c36be860bf5
+SHA1: 667c37014bc8bf97854cc8c057c30bebe363bb22
+SHA256: f773feccbaa9a03b24c24a12356abbc34483e9cb93b6f631ec2f95bd2a0e91ab
 Section: Offer
 Description: iOS: 10.2 - 10.3.3
 Author: Autobup
 Name: autoleadapp10.3
 
 Package: com.autobup.autoleadios.public.v3
-Version: 1.9.3-1
+Version: 1.9.5-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 780
 Pre-Depends: com.autobup.hookapp,SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
-Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh, com.ryleyangus.libertylite
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.public.v3_1.9.3-1_iphoneos-arm.deb
-Size: 222642
-MD5sum: dc87d16308bda886923cac4cad0aabc8
-SHA1: f57b71f8d8521d6da936c228d2f91f1e11a4ca3c
-SHA256: 835e18e3d41f2fd79d287a438c8bab218e14c01f208383c9004fa1ae31cf4f5d
+Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh, com.ryleyangus.libertylite.beta
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.public.v3_1.9.5-1_iphoneos-arm.deb
+Size: 222620
+MD5sum: 9f9200bc81ad41cc7ae0476fe5c4c2b3
+SHA1: b4bab16046ec1cde83cb96c219df3e9cf2c78910
+SHA256: 680ebf70c6adc3263b18e8bcd1528983541c1b6c65a65009472127a68535d547
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
@@ -183,23 +183,23 @@ Description: Game Plaform client made by namle
 Author: LeNam
 Name: Autobupgame
 
-Package: com.ryleyangus.libertylite
-Version: 0.2.10
+Package: com.ryleyangus.libertylite.beta
+Version: 0.2.11
 Architecture: iphoneos-arm
 Maintainer: Ryley Angus
-Installed-Size: 476
+Installed-Size: 316
 Depends: mobilesubstrate, preferenceloader, applist
-Conflicts: com.ryleyangus.liberty
-Filename: ./Files/libertylite/com.ryleyangus.libertylite_0.2.10.deb
-Size: 46610
-MD5sum: de8005d35c2204becf725c327f68e1e5
-SHA1: 434f034c55b792f51216342afd04ab965a614570
-SHA256: 01574e57f52163b9c776c8ea86b03e511b3dcbc0918cdedef9ceedd71e23a9f8
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Filename: ./Files/libertylite/com.ryleyangus.libertylite.beta_0.2.11.deb
+Size: 37516
+MD5sum: e4fe04fff5bb0aa820f0e4e9d92417de
+SHA1: 411725094cc2d3919bcf54f5f65509da9ab54480
+SHA256: 26d5fbb44a78d10c6e1c30a8e546d5f17b058970dc879f75cbe25aeff3e40a58
 Section: Tweaks
-Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.
+Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported. 32-bit support is currently disabled.
 Author: Ryley Angus
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
-Name: Liberty Lite
+Name: Liberty Lite (Beta)
 
 Package: com.smteam.autoleadhookios
 Version: 1.2.1-119

@@ -1,55 +1,51 @@
-Package: com.autobup.autoleadios.id.v1
-Version: 1.9.2-1
+Package: com.autobup.autoleadios.id.v3
+Version: 1.9.6-4
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 708
-Pre-Depends: com.autobup.hookapp, SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.hackyouriphone.ios8,com.hackyouriphone.cracktool3
-Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 11.3.1), com.ryleyangus.libertylite
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.id.v1_1.9.2-1_iphoneos-arm.deb
-Size: 194016
-MD5sum: 1a96d24f538e8f0879ac8f570e97e0f5
-SHA1: 74101071eb5357275a961ffaeeb77519b64d4a1e
-SHA256: 28e4740a18b05204a9cf382552c6a61cb865541962862b2df8b22b6e2815cf54
+Installed-Size: 780
+Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 11.4.1)
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.id.v3_1.9.6-4_iphoneos-arm.deb
+Size: 222596
+MD5sum: 96b326b258bc217c7f92768c0ef92210
+SHA1: c7dad3c52bec19fd79c74ecee6ce1691da914c49
+SHA256: 33493861f6ea8b1a79b27db093c47c6c636aeb54675ae71369265762e1281757
 Section: Offer
-Description: iOS: 10.0 - 11.3.1
+Description: iOS: 11.0 - 11.4.1
 Author: Autobup
-Name: autoleadapp10
+Name: autoleadapp_id_11
+
+Package: com.autobup.hidsupport
+Version: 0.7-13
+Architecture: iphoneos-arm
+Maintainer: autobup <nam4am@gmail.com>
+Installed-Size: 84
+Depends: mobilesubstrate, firmware (>= 8.0), com.rpetrich.rocketbootstrap, ch.ringwald.hidsupport
+Conflicts: jp.ashikase.mousesupport
+Filename: ./Files/controlsupport/com.autobup.hidsupport_0.7-13_iphoneos-arm.deb
+Size: 12208
+MD5sum: ec3414b5637a41864c0dc7ef51a10042
+SHA1: 1ec655d5710b69b52a1cfa5c87360960270049fa
+SHA256: ed749fc9d8a50635ac4e7ff356e1ac7d6e2eedf85ca55d2ce4bd0f893db17372
+Section: System
+Description: support autobup
+Author: autobup <nam4am@gmail.com>
+Name: controlsupport
 
 Package: com.autobup.hookapp
-Version: 1.3.5-6
+Version: 1.3.7-15
 Architecture: iphoneos-arm
 Maintainer: nam4am@autobup.com
 Installed-Size: 256
 Depends: firmware (>=9.0),mobilesubstrate
-Filename: ./Files/hookapp/com.autobup.hookapp_1.3.5-6_iphoneos-arm.deb
-Size: 58536
-MD5sum: bda80294771316f49553146f7cf6803d
-SHA1: 8a89958de337a0a20c39af8df28324e91cb614c2
-SHA256: 42e64142dc90dc8804008e5b2e8c0022ff811eb1a8ceeed77bca0f4a01b301b7
+Filename: ./Files/hookapp/com.autobup.hookapp_1.3.7-15_iphoneos-arm.deb
+Size: 63730
+MD5sum: ff958bb77f1a9d31573406e519688e05
+SHA1: b83ba65605e12c6b98f7cce8fa0b7a5cf7bbabda
+SHA256: 4e59b066fb809e35696127ec985ca30df3e4994cf64a5bc50ea3a43b92ab6b2d
 Section: Offer
 Description: Support for hook package auto, only App.
 Author: Autobup
 Name: HookApp
-
-Package: com.exile90.icleanerpro
-Version: 7.7.2
-Architecture: iphoneos-arm
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./Files/icleanPro/com.exile90.icleanerpro_7.7.2_iphoneos-arm.deb
-Size: 5367576
-MD5sum: 12fcc23b6be7079c7337d9c67b125c7d
-SHA1: 4a100233b48087ab6a13b1000e245ef43fed626e
-SHA256: 9a1044fe16b23d2e93303c8bb4b17d3ca2eb40f53dd7e711b1c48cfc0419f205
-Section: Utilities
-Homepage: http://ib-soft.net/icleaner
-Description: The first real iOS system cleaner & optimizer
-Author: Ivano Bilenchi <support@ib-soft.net>
-Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Icon: file:///Applications/iCleaner.app/Icon.png
-Name: iCleaner Pro
 
 Package: com.hackyouriphone.cracktool3
 Version: 3.0~beta11
@@ -98,23 +94,23 @@ Section: System
 Description: Dropbear SSH for 32 and 64 bit devices. Use with an SSH tunnel to SSH via USB (Wi-Fi SSH is not enabled by default.)
 Name: Dropbear
 
-Package: com.ryleyangus.libertylite
-Version: 0.2.10
+Package: com.ryleyangus.libertylite.beta
+Version: 0.2.11
 Architecture: iphoneos-arm
 Maintainer: Ryley Angus
-Installed-Size: 476
+Installed-Size: 316
 Depends: mobilesubstrate, preferenceloader, applist
-Conflicts: com.ryleyangus.liberty
-Filename: ./Files/libertylite/com.ryleyangus.libertylite_0.2.10.deb
-Size: 46610
-MD5sum: de8005d35c2204becf725c327f68e1e5
-SHA1: 434f034c55b792f51216342afd04ab965a614570
-SHA256: 01574e57f52163b9c776c8ea86b03e511b3dcbc0918cdedef9ceedd71e23a9f8
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Filename: ./Files/libertylite/com.ryleyangus.libertylite.beta_0.2.11.deb
+Size: 37516
+MD5sum: e4fe04fff5bb0aa820f0e4e9d92417de
+SHA1: 411725094cc2d3919bcf54f5f65509da9ab54480
+SHA256: 26d5fbb44a78d10c6e1c30a8e546d5f17b058970dc879f75cbe25aeff3e40a58
 Section: Tweaks
-Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.
+Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported. 32-bit support is currently disabled.
 Author: Ryley Angus
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
-Name: Liberty Lite
+Name: Liberty Lite (Beta)
 
 Package: org.coolstar.scp-sftp-dropbear
 Version: 1.0.2

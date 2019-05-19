@@ -1,49 +1,49 @@
 Package: com.autobup.autoleadios.tintin.v1
-Version: 1.9.6-2
+Version: 1.9.6-3
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 780
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.tintin.v1_1.9.6-2_iphoneos-arm.deb
-Size: 222778
-MD5sum: f71a8d61081377d07d736be4f86b9f03
-SHA1: 254c9de0fcf1d58536b4401647211a940702fc2f
-SHA256: 3cf4ca512d6a33f50c699780b62cb42d9f258264d8311fd39ba90c475e564470
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.tintin.v1_1.9.6-3_iphoneos-arm.deb
+Size: 222802
+MD5sum: b59189cd6a4e0d7c0b31c4ffc7bd0fea
+SHA1: 93db8ff8d797fbc822ed0b9f38192584987bce79
+SHA256: c1b3ec412378c75ff24de2b1b571cc3972403abbbbb6ecb328970c4476f1b9c4
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp_tintin_10
 
 Package: com.autobup.autoleadios.tintin.v2
-Version: 1.9.6-2
+Version: 1.9.6-3
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 780
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.tintin.v2_1.9.6-2_iphoneos-arm.deb
-Size: 222782
-MD5sum: 99dcec021efdf4dc298ecea21cc31651
-SHA1: 71c5a484236418a1bd9f568df6131c6fcfed3ee7
-SHA256: 0b42e88ff330062d83e1924f7e6a1cde78aa133248c2a8c1ea581061b995487d
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.tintin.v2_1.9.6-3_iphoneos-arm.deb
+Size: 222808
+MD5sum: 7f22692091a31b4f7282cbc2a240d39d
+SHA1: 85e407946b83292db9ef8b9dbfbda783b22bf4f9
+SHA256: d28a77bb598bec659f2b43013efa6df5033a6355f769ec123f14a97f640a6356
 Section: Offer
 Description: iOS: 10.2 - 10.3.3
 Author: Autobup
 Name: autoleadapp_tintin_10.3
 
 Package: com.autobup.autoleadios.tintin.v3
-Version: 1.9.6-2
+Version: 1.9.6-3
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 780
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.tintin.v3_1.9.6-2_iphoneos-arm.deb
-Size: 222756
-MD5sum: 7ddd97d69372d2ce95b54642cad111ef
-SHA1: 9b0c31cf4332cb522f3846c032a835bfb936a0dd
-SHA256: 776f9d80856f494645458b261765123245e6fc0ace199daf7e8476c9869b3a93
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.tintin.v3_1.9.6-3_iphoneos-arm.deb
+Size: 222784
+MD5sum: a0cc88c763175e2566551e15a202d9c3
+SHA1: e1e55854d89e28942a07f8ffbde98c2788b873b6
+SHA256: cdff6b7cfc37379f25820b24acfc3b30ba9184a678fdff71c8f4a173d6d7ee49
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup

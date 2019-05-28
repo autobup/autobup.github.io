@@ -1,82 +1,100 @@
 Package: com.autobup.autoleadios.quangkhai.v1
-Version: 1.9.6-1
+Version: 1.9.7-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 780
+Installed-Size: 784
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.quangkhai.v1_1.9.6-1_iphoneos-arm.deb
-Size: 222628
-MD5sum: 0f69d0da4b1a6a7f20af1f9785fdd4e9
-SHA1: 7ff5aad45aa4562f4a9717369a376f50fdcc8ad2
-SHA256: 68db0703e68552448a4f524f397e85bd917f5ad328e599e51663f5b2af795d15
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.quangkhai.v1_1.9.7-1_iphoneos-arm.deb
+Size: 223634
+MD5sum: e31b1b4bb5332f42f18c6de58156999c
+SHA1: 4843018148d7389293ebcd9fd8608eff2207bf60
+SHA256: 5f18951f6ca2ac3744019b51603c15769d015afcea033622042743b042b35d8b
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp_quangkhai_10
 
 Package: com.autobup.autoleadios.quangkhai.v2
-Version: 1.9.6-1
+Version: 1.9.7-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 780
+Installed-Size: 784
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.quangkhai.v2_1.9.6-1_iphoneos-arm.deb
-Size: 222640
-MD5sum: c251468b94e23c6f307520ae8fbcefeb
-SHA1: ff8c42347fafa36b3f6fda4a094909e621eba9db
-SHA256: 9e1fa3ee227fcc8d1ee52bcb5a86b9090ed0a2f3b5f1a7c58f214fcae3a4d105
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.quangkhai.v2_1.9.7-1_iphoneos-arm.deb
+Size: 223650
+MD5sum: bdc263d8d904601fc80eeaff9ad86fb3
+SHA1: 1f09a7c6b05211690290755bfaf50c911903bda3
+SHA256: b512177a02a338fe67a5899910b5f2b0ec4b9a2c8089ff579d8f79e397a990d5
 Section: Offer
 Description: iOS: 10.2 - 10.3.3
 Author: Autobup
 Name: autoleadapp_quangkhai_10.3
 
 Package: com.autobup.autoleadios.quangkhai.v3
-Version: 1.9.6-1
+Version: 1.9.7-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 780
+Installed-Size: 784
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
-Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh, com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.quangkhai.v3_1.9.6-1_iphoneos-arm.deb
-Size: 222610
-MD5sum: 09c72a5f446e1f158ad0343e76a4ee89
-SHA1: af10cd4a6797556b6b56f34313691643f12fb756
-SHA256: c664f30aba572dffa6eac5723863edae3f9ea393e3a74de88eafd589f1a82f0c
+Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh,com.ryleyangus.libertylite.beta
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.quangkhai.v3_1.9.7-1_iphoneos-arm.deb
+Size: 223618
+MD5sum: 57fa2d8256429e17ed4ecb6e4739a223
+SHA1: 6b5f97bdc6685a515b8c137a115b3bfd0d723d77
+SHA256: a4aab40df517c8ba71ac387235e13a19cdac3a6ab660ebaae5ff2a0d050c96e4
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
 Name: autoleadapp_quangkhai_11
 
-Package: com.autobup.hidsupport
-Version: 0.7-13
+Package: com.autobup.autoleadios.quangkhai.v4
+Version: 1.9.7-1
 Architecture: iphoneos-arm
-Maintainer: autobup <nam4am@gmail.com>
-Installed-Size: 84
-Depends: mobilesubstrate, firmware (>= 8.0), com.rpetrich.rocketbootstrap, ch.ringwald.hidsupport
-Conflicts: jp.ashikase.mousesupport
-Filename: ./Files/controlsupport/com.autobup.hidsupport_0.7-13_iphoneos-arm.deb
-Size: 12208
-MD5sum: ec3414b5637a41864c0dc7ef51a10042
-SHA1: 1ec655d5710b69b52a1cfa5c87360960270049fa
-SHA256: ed749fc9d8a50635ac4e7ff356e1ac7d6e2eedf85ca55d2ce4bd0f893db17372
-Section: System
-Description: support autobup
-Author: autobup <nam4am@gmail.com>
+Maintainer: namle
+Installed-Size: 784
+Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
+Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 12.1.2), openssh,com.ryleyangus.libertylite.beta
+Filename: ./Files/autolead/v4/com.autobup.autoleadios.quangkhai.v4_1.9.7-1_iphoneos-arm.deb
+Size: 223610
+MD5sum: f061943f12b09d12aaa8c2c734d4202d
+SHA1: 23d44198e29618f92fd242ce528aa7a4f22b1ca0
+SHA256: 5455ce15b7f620ed0abb5f21acba44071a3e2503f95fbbfd521399a11bace267
+Section: Offer
+Description: iOS: 12.0 - 12.1.2
+Author: namle
+Name: autoleadapp_quangkhai_12
+
+Package: com.autobup.hidsupport
+Version: 1.0.1-11
+Architecture: iphoneos-arm
+Maintainer: namle
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5101), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Conflicts: jp.ashikase.mousesupport,ch.ringwald.hidsupport
+Filename: ./Files/controlsupport/com.autobup.hidsupport_1.0.1-11_iphoneos-arm.deb
+Size: 47608
+MD5sum: cf33d7763a2c020ae0f897b8e65bf854
+SHA1: 74726cc8cd3eed8b261efbd40eb4ea2229169484
+SHA256: d3bbca96e81f36c9f0fdfd2d9293073b5c1e1919346b2bd9043ff4d248f1e814
+Section: Tweaks
+Homepage: http://autobup.com
+Description: control support event for autobup!
+Author: namle
 Name: controlsupport
 
 Package: com.autobup.hookapp
-Version: 1.3.8-8
+Version: 1.3.9-15
 Architecture: iphoneos-arm
 Maintainer: nam4am@autobup.com
 Installed-Size: 256
 Depends: firmware (>=9.0),mobilesubstrate
-Filename: ./Files/hookapp/com.autobup.hookapp_1.3.8-8_iphoneos-arm.deb
-Size: 58826
-MD5sum: 52578b578eeb7c9be499dd97a521a77c
-SHA1: 788d45fd4d0b659eb717a37f20d5bdbea6279a41
-SHA256: 99b9a900a0e7b22c387c926703130d96524ad5f245826eddf862c8c0a3a6eba0
+Filename: ./Files/hookapp/com.autobup.hookapp_1.3.9-15_iphoneos-arm.deb
+Size: 59346
+MD5sum: 07d8b9e07742ff72ab3e13a7487c8658
+SHA1: 6cfb8d363d928d1a42b5dc0d985101462bdc0054
+SHA256: 0202f0e412c3f89452eff6b09200811c7c11bd4b51c4e1bace11ae0737ac41f7
 Section: Offer
 Description: Support for hook package auto, only App.
 Author: Autobup

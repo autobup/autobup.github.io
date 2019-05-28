@@ -67,18 +67,18 @@ Description: iOS: 12.0 - 12.1.2
 Author: Autobup
 Name: autoleadapp12
 
-Package: com.autobup.controlsupport
-Version: 1.0.1-4
+Package: com.autobup.hidsupport
+Version: 1.0.1-11
 Architecture: iphoneos-arm
 Maintainer: namle
-Installed-Size: 404
+Installed-Size: 412
 Depends: mobilesubstrate (>= 0.9.5101), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
 Conflicts: jp.ashikase.mousesupport,ch.ringwald.hidsupport
-Filename: ./Files/controlsupport/com.autobup.controlsupport_1.0.1-4_iphoneos-arm.deb
-Size: 45716
-MD5sum: adcc4e9436f36676a007e304fee89805
-SHA1: 999879b3debab44be82bff670c57ed3de26b609e
-SHA256: 71f76b1c0c4ef1c69d2752b52521640b190abf6f397dc68875e6ec7c56cc525b
+Filename: ./Files/controlsupport/com.autobup.hidsupport_1.0.1-11_iphoneos-arm.deb
+Size: 47608
+MD5sum: cf33d7763a2c020ae0f897b8e65bf854
+SHA1: 74726cc8cd3eed8b261efbd40eb4ea2229169484
+SHA256: d3bbca96e81f36c9f0fdfd2d9293073b5c1e1919346b2bd9043ff4d248f1e814
 Section: Tweaks
 Homepage: http://autobup.com
 Description: control support event for autobup!

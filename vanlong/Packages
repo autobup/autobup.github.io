@@ -1,87 +1,70 @@
-Package: com.autobup.autoleadios.tintin.v0
-Version: 2.0.2-1
-Architecture: iphoneos-arm
-Maintainer: namle
-Installed-Size: 816
-Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
-Depends: mobilesubstrate,firmware (>=9.0),firmware (< 10.0), openssh
-Filename: ./Files/autolead/v0/com.autobup.autoleadios.tintin.v0_2.0.2-1_iphoneos-arm.deb
-Size: 229970
-MD5sum: 5d3a2a2ccc65639ef010e2e1f965bb08
-SHA1: 76fba291d2a67aeedc22cb55267383c9bfcddda1
-SHA256: b72e6dc67357de9a075d13345b37b4496b662373adc5e985940e5ec0865178e6
-Section: Offer
-Description: iOS: 9.0+
-Author: namle
-Name: autoleadapp_tintin_9
-
-Package: com.autobup.autoleadios.tintin.v1
+Package: com.autobup.autoleadios.vanlong.v1
 Version: 2.0.2-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 816
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
-Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.tintin.v1_2.0.2-1_iphoneos-arm.deb
-Size: 230004
-MD5sum: bebd381351d7e4f23be7f1bc8f66d735
-SHA1: c7afca60385de49d890fe65bd426c61ff7e35889
-SHA256: 80a454f6aa95cb4adbf9a96c5773b71dba1fc20435e50651e6e03bbfceec673f
+Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.vanlong.v1_2.0.2-1_iphoneos-arm.deb
+Size: 230018
+MD5sum: e47df0618f11ab246c3a12a56ee88aa8
+SHA1: 0f30c9444d23efafa8b8fe1d751faa0d33fd7839
+SHA256: 96242c789fe46fbd162ab2dc2caaa2cbce00cbcb2bd31ccf8e67b86f25074d27
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
-Name: autoleadapp_tintin_10
+Name: autoleadapp_vanlong_10
 
-Package: com.autobup.autoleadios.tintin.v2
+Package: com.autobup.autoleadios.vanlong.v2
 Version: 2.0.2-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 816
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
-Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.tintin.v2_2.0.2-1_iphoneos-arm.deb
-Size: 230006
-MD5sum: f51d26848745358e8f8b213ec9cad4cd
-SHA1: 4ad93cf4034909685968eb7ef35c3f598e76b047
-SHA256: 07d22429d377e9542d5fb44239e742556835984e5e682ae4db07e15ec3d8ede8
+Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.vanlong.v2_2.0.2-1_iphoneos-arm.deb
+Size: 230044
+MD5sum: bc6a39dc6184c8ab27e2fd7a51e13080
+SHA1: e9fbdd16835e4711d4366f5915ed5a697cfedb0f
+SHA256: f82ae6fab23dc68b89a7b178fd2a1267ec6884b3691bba0fa55e4bf7c6421f8b
 Section: Offer
 Description: iOS: 10.3 - 10.3.3
 Author: Autobup
-Name: autoleadapp_tintin_10.3
+Name: autoleadapp_vanlong_10.3
 
-Package: com.autobup.autoleadios.tintin.v3
+Package: com.autobup.autoleadios.vanlong.v3
 Version: 2.0.2-1
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 816
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
-Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.tintin.v3_2.0.2-1_iphoneos-arm.deb
-Size: 229994
-MD5sum: 35990c579cfa4a73d580eefd9bd63eea
-SHA1: 147d6f55fbda6c2b1fc8aa8c9e0366a1fb899b5f
-SHA256: fd9ff0d705ec2fe99b2650e2f2b2167769a4296f3aa606efeb8e4fc35330a226
+Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh,com.ryleyangus.libertylite.beta
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.vanlong.v3_2.0.2-1_iphoneos-arm.deb
+Size: 230012
+MD5sum: 2afe0bea8511e24f5831cb7650ecf370
+SHA1: 39936809242cd1a7851bfd6db62f867267f31439
+SHA256: 7a597c61b69eeb60928ad7e64bc4e220c0559355aa0e754bf0e8afeac69fb710
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
-Name: autoleadapp_tintin_11
+Name: autoleadapp_vanlong_11
 
-Package: com.autobup.autoleadios.tintin.v4
+Package: com.autobup.autoleadios.vanlong.v4
 Version: 2.0.2-1
 Architecture: iphoneos-arm
 Maintainer: namle
 Installed-Size: 816
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
-Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 12.2), openssh
-Filename: ./Files/autolead/v4/com.autobup.autoleadios.tintin.v4_2.0.2-1_iphoneos-arm.deb
-Size: 229976
-MD5sum: dd1d8af2e14e5afbb73a6beb102f71f3
-SHA1: 9b1a34f35a5981eaa2e634a30bf2fdfccded57d1
-SHA256: 975d2ef5f4988fe1b96c6fbc49500cc284341f52691b7da000ac511224b758e1
+Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 12.2), openssh,com.ryleyangus.libertylite.beta
+Filename: ./Files/autolead/v4/com.autobup.autoleadios.vanlong.v4_2.0.2-1_iphoneos-arm.deb
+Size: 230006
+MD5sum: cf241a72cd3a2d460451f0e1d391aec2
+SHA1: fba14a8d7dc28502b272a461ff0c8ca3b9cdc7fc
+SHA256: 7f8a84e24dedcd7e1e3f63758a4762d8f20c6d713bf055650ec823614234b3f8
 Section: Offer
 Description: iOS: 12.0 - 12.2
 Author: namle
-Name: autoleadapp_tintin_12
+Name: autoleadapp_vanlong_12
 
 Package: com.autobup.hidsupport
 Version: 1.0.1-11

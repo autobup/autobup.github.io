@@ -1,66 +1,66 @@
 Package: com.autobup.autoleadios.ak.v1
-Version: 2.0.1-2
+Version: 2.0.2-2
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 816
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.ak.v1_2.0.1-2_iphoneos-arm.deb
-Size: 229932
-MD5sum: 769f1c7e0444c7ef4b102f08afb1e644
-SHA1: f50b4ae4d9c896d61d0ebc5eb66deef949427a35
-SHA256: ae4e4e31b06ad495dab0c918c6ce5f81f1e9d0288a7493eef154a4ef368372bf
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.ak.v1_2.0.2-2_iphoneos-arm.deb
+Size: 230048
+MD5sum: ef5c83c5f7d08e87645908d6c75fc8da
+SHA1: fb78d64e5d3c801bca316911ceede9cb33e074fc
+SHA256: 1ca0cceac5a16ba4a837e6293ab6217e6d5b647d0d9bbcffed68a6ebcab5d180
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp_AK_10
 
 Package: com.autobup.autoleadios.ak.v2
-Version: 2.0.1-2
+Version: 2.0.2-2
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 816
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.ak.v2_2.0.1-2_iphoneos-arm.deb
-Size: 229952
-MD5sum: d33c5e31d188a967a2fe92b433eb76fd
-SHA1: a7197fa1cc0ab1b39dd6dd11b18a196771daa788
-SHA256: 080d8bbc8cbea0947b9ddf25e784870e1fb387d24f2b9300309112ffbe7f02f1
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.ak.v2_2.0.2-2_iphoneos-arm.deb
+Size: 230062
+MD5sum: ba0d390aa50bb1368e80f686cd9e294c
+SHA1: 547ecc83f4fffc415634390347a9d806d5e644e7
+SHA256: cedd0535f1ce32fa936f7baeae5ea445dc64f0029320e82d3a055f9d4882592e
 Section: Offer
 Description: iOS: 10.3 - 10.3.3
 Author: Autobup
 Name: autoleadapp_AK_10.3
 
 Package: com.autobup.autoleadios.ak.v3
-Version: 2.0.1-2
+Version: 2.0.2-2
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 816
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.ak.v3_2.0.1-2_iphoneos-arm.deb
-Size: 229914
-MD5sum: 97f0c38a2a1209f4039b7d496a9add83
-SHA1: 244084b653d654d8f325177bb1765acc55342aac
-SHA256: 2e46c60005f0614d66bcf302dd90e8ff250213b6b0f84f372f9307a5f1356227
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.ak.v3_2.0.2-2_iphoneos-arm.deb
+Size: 230040
+MD5sum: 6c873b83b35999043bb49038c962077d
+SHA1: f06d9a2d9846c63de7a6c54c33499893b8557ad2
+SHA256: f1411f5e809e1582c6368f9a30364d7a08079cbe2f6aee48189bad9f21ca3995
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
 Name: autoleadapp_AK_11
 
 Package: com.autobup.autoleadios.ak.v4
-Version: 2.0.1-2
+Version: 2.0.2-2
 Architecture: iphoneos-arm
 Maintainer: namle
 Installed-Size: 816
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
 Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 12.2), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v4/com.autobup.autoleadios.ak.v4_2.0.1-2_iphoneos-arm.deb
-Size: 229902
-MD5sum: 80cb080441ed6384dea77fa90f0725de
-SHA1: ed37ea12fd0d55c3a62ba243f6eb5398f28f883f
-SHA256: 1f97c9a24a0d2f22d359693f330cf7fafac0242e139a54764b2634f7b393b6f6
+Filename: ./Files/autolead/v4/com.autobup.autoleadios.ak.v4_2.0.2-2_iphoneos-arm.deb
+Size: 230028
+MD5sum: 0dc96c25b47f94f15230cbd32a41d97e
+SHA1: 2bf1a71daf759144cf9ad5f171a3b97ee96644d9
+SHA256: 9538687d40f62f2b76f9768ff294722c66999603f17bfa2d48b2e7ccf87a2ecc
 Section: Offer
 Description: iOS: 12.0 - 12.2
 Author: namle

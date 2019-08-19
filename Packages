@@ -1,68 +1,68 @@
 Package: com.autobup.autoleadios.public.v1
-Version: 2.0.2-2
+Version: 2.0.2-3
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 816
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.public.v1_2.0.2-2_iphoneos-arm.deb
-Size: 230044
-MD5sum: 57d8e28797ea1eacf4093e6c88c807fd
-SHA1: a360040bb6f654413c38fbf5d52177c80ecf0e79
-SHA256: 83f8357908ad092a742c692798687d6c88f74fabd40a9aae108c83d2eb2cdf5c
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.public.v1_2.0.2-3_iphoneos-arm.deb
+Size: 230040
+MD5sum: 4b964c6f370dd267bde820393966daa0
+SHA1: 03151cc3d7dd229ef799e5d524dc3e82811dbbd3
+SHA256: 9703a09a5b21801c5a8766fded75bbc404c743dd0c4bc3640603f98e23c6c568
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp10
 
 Package: com.autobup.autoleadios.public.v2
-Version: 2.0.2-2
+Version: 2.0.2-3
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 816
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.public.v2_2.0.2-2_iphoneos-arm.deb
-Size: 230056
-MD5sum: f8719fb5467a25ff7f770f15326a0c6f
-SHA1: 8281d8e10b1d5beb8bfb9141b984da50b6d85531
-SHA256: 6eb3eeaa42c30f49ed38c03720d6eb9fcf71c48b03191ccf0813a975ecee1919
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.public.v2_2.0.2-3_iphoneos-arm.deb
+Size: 230048
+MD5sum: ba25acf7626ca2700a56f5ba0446494f
+SHA1: 5040bdc8f4961decfbfe92fdc8316497a665fc22
+SHA256: 7f4ec59583a496ac4319e21f13b2f44c253c1f38c0ab1540e83ff1385e9caa1c
 Section: Offer
 Description: iOS: 10.3 - 10.3.3
 Author: Autobup
 Name: autoleadapp10.3
 
 Package: com.autobup.autoleadios.public.v3
-Version: 2.0.2-2
+Version: 2.0.2-3
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 816
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.public.v3_2.0.2-2_iphoneos-arm.deb
-Size: 230028
-MD5sum: e277679f328246f67dc95111074de181
-SHA1: 81aa76c079f98471cfbe03f9f6ca775f9ecb2b9d
-SHA256: 5608aeacbcd8d6ab50d00a1cc3b31c40f531e350fae80cad7fea5db2b792203a
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.public.v3_2.0.2-3_iphoneos-arm.deb
+Size: 230032
+MD5sum: b10cbd2ea7897e38ca71eeb25246c269
+SHA1: 37fce7f804a5c062e4aa587cff4ea58a43417c8b
+SHA256: 410be7c8bfd8fa6c939f8c2bf5d5fb33ae0ca64cad055afee3ea16657a05f66e
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
 Name: autoleadapp11
 
 Package: com.autobup.autoleadios.public.v4
-Version: 2.0.2-2
+Version: 2.0.2-3
 Architecture: iphoneos-arm
 Maintainer: namle
 Installed-Size: 816
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport
-Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 12.2), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v4/com.autobup.autoleadios.public.v4_2.0.2-2_iphoneos-arm.deb
-Size: 230004
-MD5sum: 70ec3186f8c9b2314649251a138b1462
-SHA1: 861399aa503880cebd596153284a194c384bb6be
-SHA256: 0a38060b090df62910405e9c24d0aadf5ef79ec1c6949f52c53f5122c499f48c
+Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 12.4), openssh,com.ryleyangus.libertylite.beta
+Filename: ./Files/autolead/v4/com.autobup.autoleadios.public.v4_2.0.2-3_iphoneos-arm.deb
+Size: 230018
+MD5sum: d419134528345a99c766906e4af8e1f1
+SHA1: b119b4b71aff667c33487dcf90c9b192dd60aba4
+SHA256: 3bc42f6f653bd6a5bb4311f283c83facdbc67f792182fa0faf537ebe88d29490
 Section: Offer
-Description: iOS: 12.0 - 12.2
+Description: iOS: 12.0 - 12.4
 Author: namle
 Name: autoleadapp12
 

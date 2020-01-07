@@ -1,0 +1,47 @@
+Package: com.n2tforever.napgame
+Version: 0.0.1-52+debug
+Architecture: iphoneos-arm
+Maintainer: Bui Tuan son
+Depends: mobilesubstrate
+Filename: ./Files/autolead/napgame_Cracked.deb
+Size: 63296
+MD5sum: f9067790133ba4546100586f32b5b528
+SHA1: eb494032cfdf3f91d7b9af9b5d39435962ca9be4
+SHA256: 7144357423cb3c7aa30a7313c868fef6e4e1329670c486fdfbbcaa3367d3c86b
+Section: Tweaks
+Description: ACE nap game vui ve
+Author: Bui Tuan son
+Name: NapGame
+
+Package: com.n2tforever.xagame
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Maintainer: Bui Tuan son
+Installed-Size: 440
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Filename: ./Files/autolead/xagame_Cracked.deb
+Size: 57714
+MD5sum: 34a5bfd044647c5146ce01e86e5e5077
+SHA1: 295d973c770f655f0d8fb4746948fb986594f716
+SHA256: e038c491170e07794a9d57907ac72a60f04450ec4d8352827f1c45f7ce276051
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Bui Tuan son
+Name: XaGame
+
+Package: com.smad.vi
+Version: 0.1.6-3+debug
+Architecture: iphoneos-arm
+Maintainer: nam4am@autobup.com
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./Files/autolead/viplus.deb
+Size: 15202
+MD5sum: 23a0ec8ea21b59daafded8d68fdd2e0c
+SHA1: 51669f8901b423e77eaa3d361c90d6ea7c4c1a12
+SHA256: 774f911edd93a60de377c79075029cf5cf56379982d4f34e8acff0026f4bc0fd
+Section: Tweaks
+Description: ViPlus ho tro cho wallet.autobup.com
+Author: nam4am
+Name: ViPlus
+

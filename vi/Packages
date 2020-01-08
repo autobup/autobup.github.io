@@ -30,16 +30,16 @@ Author: Bui Tuan son
 Name: XaGame
 
 Package: com.smad.vi
-Version: 0.1.6-3+debug
+Version: 0.1.6-6+debug
 Architecture: iphoneos-arm
 Maintainer: nam4am@autobup.com
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./Files/autolead/viplus.deb
-Size: 15202
-MD5sum: 23a0ec8ea21b59daafded8d68fdd2e0c
-SHA1: 51669f8901b423e77eaa3d361c90d6ea7c4c1a12
-SHA256: 774f911edd93a60de377c79075029cf5cf56379982d4f34e8acff0026f4bc0fd
+Filename: ./Files/autolead/com.smad.vi_0.1.6-6+debug_iphoneos-arm.deb
+Size: 15196
+MD5sum: f54962484b3c4e13ed6730e2f27d5bfd
+SHA1: 6139e75804a7688008da446a769016eaa310a438
+SHA256: 32a2985447a20f1c8afe6840a0af194169ec6479b0eab20ffe23f3f5882e034e
 Section: Tweaks
 Description: ViPlus ho tro cho wallet.autobup.com
 Author: nam4am

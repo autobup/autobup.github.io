@@ -29,3 +29,19 @@ Description: An awesome MobileSubstrate tweak!
 Author: Bui Tuan son
 Name: XaGame
 
+Package: com.smad.vi
+Version: 0.1.6-6+debug
+Architecture: iphoneos-arm
+Maintainer: nam4am@autobup.com
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./Files/autolead/com.smad.vi_0.1.6-6+debug_iphoneos-arm.deb
+Size: 15196
+MD5sum: f54962484b3c4e13ed6730e2f27d5bfd
+SHA1: 6139e75804a7688008da446a769016eaa310a438
+SHA256: 32a2985447a20f1c8afe6840a0af194169ec6479b0eab20ffe23f3f5882e034e
+Section: Tweaks
+Description: ViPlus ho tro cho wallet.autobup.com
+Author: nam4am
+Name: ViPlus
+

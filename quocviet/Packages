@@ -1,66 +1,66 @@
 Package: com.autobup.autoleadios.quocviet.v1
-Version: 2.0.5-1+debug
+Version: 2.0.5-2+debug
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 1072
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.quocviet.v1_2.0.5-1+debug_iphoneos-arm.deb
-Size: 195152
-MD5sum: bfc9f549843fc674775d8ba3faa6116f
-SHA1: 389160e9976aa1becfdd0fcf50a913cf7a361be5
-SHA256: dbac30dc1075b47602179b5761af4d82ee38c8b6cdfe5002303e08b04266fc31
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.quocviet.v1_2.0.5-2+debug_iphoneos-arm.deb
+Size: 194316
+MD5sum: 46c451d542807b15cce12f4156545544
+SHA1: 385e752110beeee10fd3a205a16dcfb8fd869a75
+SHA256: 3f879f5b2573206f838b930c3db0b7e7ce3c81fcfafa463eb13056178665592f
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp_quocviet_10
 
 Package: com.autobup.autoleadios.quocviet.v2
-Version: 2.0.5-1+debug
+Version: 2.0.5-2+debug
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 1072
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.quocviet.v2_2.0.5-1+debug_iphoneos-arm.deb
-Size: 195268
-MD5sum: 9236516dfcffecb81ebde0545963abad
-SHA1: ede7562c288770fc7b3318c4fbefc1338797c757
-SHA256: 95fb0927fdffefe4564cdbc71797ea5b9dc62286c7150d9b70a20e4f51df2db5
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.quocviet.v2_2.0.5-2+debug_iphoneos-arm.deb
+Size: 194512
+MD5sum: 8d2809a1b7263a289e2bfc20bb86bc48
+SHA1: 6f159d02b165b5a5be7dd59abcf41124fc01f7ba
+SHA256: 62602cb388353461860be408f495d131d37c6f0775c445c123a5b129b2a5c166
 Section: Offer
 Description: iOS: 10.3 - 10.3.3
 Author: Autobup
 Name: autoleadapp_quocviet_10.3
 
 Package: com.autobup.autoleadios.quocviet.v3
-Version: 2.0.5-1+debug
+Version: 2.0.5-2+debug
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 1072
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.quocviet.v3_2.0.5-1+debug_iphoneos-arm.deb
-Size: 195240
-MD5sum: 9c03243c95789fd2348410f9e7fdfca9
-SHA1: 301f78af8ea581e70975320e007f0cc4863c4fa5
-SHA256: 67c1fbe5b5a07efe94979b1f02b35d495aa53dc41ef5648c2a944a5fc401aa2b
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.quocviet.v3_2.0.5-2+debug_iphoneos-arm.deb
+Size: 195380
+MD5sum: ddfbd691fe19d8000b88c4c31e9ad35e
+SHA1: 64e98d4b0fe35d675cd85da0068d2fc0f2c1f67d
+SHA256: f73565fcf7de9ed84855d824e11c96da45d90a6926dd89435bcc070e30c51dc1
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
 Name: autoleadapp_quocviet_11
 
 Package: com.autobup.autoleadios.quocviet.v4
-Version: 2.0.5-1+debug
+Version: 2.0.5-2+debug
 Architecture: iphoneos-arm
 Maintainer: namle
 Installed-Size: 1072
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip
 Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 12.4), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v4/com.autobup.autoleadios.quocviet.v4_2.0.5-1+debug_iphoneos-arm.deb
-Size: 195052
-MD5sum: e7d62a798fbaab072de0d3347e9d3897
-SHA1: e3272ff1d1ac3605e86743c4d099203ebbb38d3a
-SHA256: 54fc0f49a57e4ae322fd8697b0c409e73e0404a65d6961ba6ded4641a2273d7e
+Filename: ./Files/autolead/v4/com.autobup.autoleadios.quocviet.v4_2.0.5-2+debug_iphoneos-arm.deb
+Size: 194392
+MD5sum: a20d6e266ae89927aac7fb7f12c2137b
+SHA1: 46e2461fa02ec463743456641ad41dd9c2f33cf8
+SHA256: f306c5ded844790156562b959db812670959c4e39d53e3f3115bb8fc4ea7ace0
 Section: Offer
 Description: iOS: 12.0 - 12.4
 Author: namle

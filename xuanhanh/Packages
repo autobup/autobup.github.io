@@ -1,66 +1,66 @@
 Package: com.autobup.autoleadios.xuanhanh.v1
-Version: 2.0.5-2+debug
+Version: 2.0.5-3+debug
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 1072
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.xuanhanh.v1_2.0.5-2+debug_iphoneos-arm.deb
-Size: 195424
-MD5sum: a460300896e8d265667c432bfb50bdd1
-SHA1: 696c441317180d647c7fe62826c2107065be8a43
-SHA256: 34abb9c8813658d09c1c896d52b45790b439d937e80427e9ed585bfd755dc484
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.xuanhanh.v1_2.0.5-3+debug_iphoneos-arm.deb
+Size: 195268
+MD5sum: ad44bd3ccdcd25421f6ee8c92cb9686b
+SHA1: a5cd9266fea64d03c4cb0a6cdbe440bab23cc7e6
+SHA256: 1982564ea81182f66711cb953e20abfaa9b3c9617aecb5f1c10abe11427c7f1a
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp_xuanhanh_10
 
 Package: com.autobup.autoleadios.xuanhanh.v2
-Version: 2.0.5-2+debug
+Version: 2.0.5-3+debug
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 1072
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.xuanhanh.v2_2.0.5-2+debug_iphoneos-arm.deb
-Size: 195432
-MD5sum: 9f0b911c14ae368248594caa0e159270
-SHA1: a1e49cf20886e42f794cf696478a782276410fef
-SHA256: ba9be8f0593139c7448ecbbcedefdd0fbfb26f918c12f6c997c7848896acbb26
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.xuanhanh.v2_2.0.5-3+debug_iphoneos-arm.deb
+Size: 195160
+MD5sum: d96f7dbe359c7dc6fe817e668a915284
+SHA1: 29367c43adff289cf167905c4fd2c46d2c86b977
+SHA256: 4a27311bb3fda6349f09a029e5b9b0ee8e369465c13881657ee4fab7592dbd66
 Section: Offer
 Description: iOS: 10.3 - 10.3.3
 Author: Autobup
 Name: autoleadapp_xuanhanh_10.3
 
 Package: com.autobup.autoleadios.xuanhanh.v3
-Version: 2.0.5-2+debug
+Version: 2.0.5-3+debug
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 1072
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.xuanhanh.v3_2.0.5-2+debug_iphoneos-arm.deb
-Size: 194392
-MD5sum: dd01c487d7d4e1d45e416bc9d151944f
-SHA1: 68bef52d3299f478aa9474c035a275f329eee2da
-SHA256: ad8bfcc8b42c8f987a85454247d66f361d884752cc39aca19f56c9fc165277d6
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.xuanhanh.v3_2.0.5-3+debug_iphoneos-arm.deb
+Size: 195512
+MD5sum: 12a8110c2afe427045e89f84574cec26
+SHA1: 4edc069eebb7dd83251bbde9eec0484fb2638e78
+SHA256: e93f85d9f40e3f33635a4a92e9c170b9fef4568dc6924eb01f3cbda826e3a467
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
 Name: autoleadapp_xuanhanh_11
 
 Package: com.autobup.autoleadios.xuanhanh.v4
-Version: 2.0.5-2+debug
+Version: 2.0.5-3+debug
 Architecture: iphoneos-arm
 Maintainer: namle
 Installed-Size: 1072
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip
 Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 12.4), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v4/com.autobup.autoleadios.xuanhanh.v4_2.0.5-2+debug_iphoneos-arm.deb
-Size: 194492
-MD5sum: b3a5a83a3a7796dbde387e34913f5d38
-SHA1: 9e5d898fa002eb05d2cfb34e2c1a5ea2b902d4f2
-SHA256: 4213390099c08641ada8d70b2c1c752159c5f49be1d59a8f38b910b15db44ea3
+Filename: ./Files/autolead/v4/com.autobup.autoleadios.xuanhanh.v4_2.0.5-3+debug_iphoneos-arm.deb
+Size: 195488
+MD5sum: aab1e26040c39a780cd5e11a7d97143d
+SHA1: bc5d52a0a72549855e45b6925280f51941e6ab8d
+SHA256: a49139d4862180cef4081667613be76badb60bb060d769e6f0eb288db4a7bdfb
 Section: Offer
 Description: iOS: 12.0 - 12.4
 Author: namle

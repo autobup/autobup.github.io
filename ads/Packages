@@ -1,68 +1,68 @@
 Package: com.autobup.autoleadios.ads.v1
-Version: 2.0.5-4+debug
+Version: 2.0.5-5+debug
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 1072
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.ads.v1_2.0.5-4+debug_iphoneos-arm.deb
-Size: 194572
-MD5sum: 0bf803c24f785f9a1f6dfb5db700f6f7
-SHA1: 71e630a23c8491dcf305ede0c300f63530189e54
-SHA256: 99f6782ec837daa4b4d8113a462b629aa70d18f57ae06c7d8961062fd58ae6bf
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.ads.v1_2.0.5-5+debug_iphoneos-arm.deb
+Size: 194624
+MD5sum: b4f5dc78c31191f827da51597e2a0366
+SHA1: 88f7ad174569f03f0487223549dc07a93415fe45
+SHA256: eec62cd303c48d3e69e11d0d7dd2b80bbdfcea84d8fc1f6110705adb29fb5e61
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp_ads_10
 
 Package: com.autobup.autoleadios.ads.v2
-Version: 2.0.5-4+debug
+Version: 2.0.5-5+debug
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 1072
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.ads.v2_2.0.5-4+debug_iphoneos-arm.deb
-Size: 195512
-MD5sum: 00ac436f794e3cdda0f435ccd4c6b2fc
-SHA1: c450c9a7ac34cb849b7fa40cab5745ba233de813
-SHA256: a466e334df4a6060cf0acc6ecc03a4e01218bf0cb9d79fd907636b6465f11163
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.ads.v2_2.0.5-5+debug_iphoneos-arm.deb
+Size: 194372
+MD5sum: 654c3c57d67ff17c561b399e27fd3fc8
+SHA1: 5b95db1d7440b102db75ff108ecef4f0620c5dc6
+SHA256: 0565db211c2cc3db936b48e05f37a2b839a3aaf1465b1d3adfb26252ed9bd951
 Section: Offer
 Description: iOS: 10.3 - 10.3.3
 Author: Autobup
 Name: autoleadapp_ads_10.3
 
 Package: com.autobup.autoleadios.ads.v3
-Version: 2.0.5-4+debug
+Version: 2.0.5-5+debug
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 1072
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.ads.v3_2.0.5-4+debug_iphoneos-arm.deb
-Size: 195472
-MD5sum: 32e52a1f8a2e590892dc2b1e119f9fec
-SHA1: b5248150c19917753f51e70477b9f3b3bd112e4c
-SHA256: d3b814979cb0dfedaf97675fcc1b540c11957fcc9533ba6e417832def79dc44c
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.ads.v3_2.0.5-5+debug_iphoneos-arm.deb
+Size: 194960
+MD5sum: eb5d232dfdce90b102ed1354475b73e8
+SHA1: b396997de2ea159000b9c4a4f460b2ffa4b36016
+SHA256: 12d4157bab63e48160f2b57d4db572133bf620acd4d1a23f8ff7e389a79abc09
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
 Name: autoleadapp_ads_11
 
 Package: com.autobup.autoleadios.ads.v4
-Version: 2.0.5-5+debug
+Version: 2.0.5-6+debug
 Architecture: iphoneos-arm
 Maintainer: namle
 Installed-Size: 1072
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip
-Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 12.4), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v4/com.autobup.autoleadios.ads.v4_2.0.5-5+debug_iphoneos-arm.deb
-Size: 195488
-MD5sum: d9837f414aee9ca9a9ae2238ab5535b0
-SHA1: 071871704c38bc287a1122443ce8b5d5d491d405
-SHA256: 1b1e2f6a9971989a34d8e2937136010b12d135e656e2f309b8501522c89a9fc9
+Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 13.3), openssh,com.ryleyangus.libertylite.beta
+Filename: ./Files/autolead/v4/com.autobup.autoleadios.ads.v4_2.0.5-6+debug_iphoneos-arm.deb
+Size: 195436
+MD5sum: ffd078db795bc345a91e334903c36447
+SHA1: ad627515f324722f9da5d7b705efeb9483afc840
+SHA256: d6d389c0306265221502bfe6bceb972c449fd76b7ba619f37401ed38d12ae45a
 Section: Offer
-Description: iOS: 12.0 - 12.4
+Description: iOS: 12.0 - 13.3
 Author: namle
 Name: autoleadapp_ads_12
 

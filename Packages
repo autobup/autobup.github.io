@@ -102,16 +102,16 @@ Author: namle
 Name: controlsupport
 
 Package: com.autobup.hookapp
-Version: 1.4.1-33+debug
+Version: 1.4.1-42
 Architecture: iphoneos-arm
 Maintainer: nam4am@autobup.com
-Installed-Size: 144
+Installed-Size: 112
 Depends: firmware (>=9.0),mobilesubstrate
-Filename: ./Files/hookapp/com.autobup.hookapp_1.4.1-33+debug_iphoneos-arm.deb
-Size: 25476
-MD5sum: f1de94da6feba70473d8c54b03da148f
-SHA1: 225d4e746e08cbdc06a95fc57adafa342eaa0de7
-SHA256: 55e82d00963931047338d83499c5a26faa1064f81580724c3facafe9d3a432e6
+Filename: ./Files/hookapp/com.autobup.hookapp_1.4.1-42_iphoneos-arm.deb
+Size: 20782
+MD5sum: 5fde6af33ce5422001f7a6ade2739cce
+SHA1: b900f20e88229ec6d831df054669e4e6baca8c7d
+SHA256: 0eb3660e30c71b6f1d8d97d454d941e718eb71d4c58edaa5a5a7086e07fc0abe
 Section: Offer
 Description: Support for hook package auto, only App.
 Author: Autobup

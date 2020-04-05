@@ -1,70 +1,70 @@
-Package: com.autobup.autoleadios.hieuhuynh.v1
-Version: 2.0.5-10+debug
+Package: com.autobup.autoleadios.nhilong.v1
+Version: 2.0.5-3
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 1084
+Installed-Size: 964
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.hieuhuynh.v1_2.0.5-10+debug_iphoneos-arm.deb
-Size: 197724
-MD5sum: 0aca84b9551e220cd6d75918be8f3f58
-SHA1: 42c26a5959451a76f63666123434a2bc74505078
-SHA256: 192c86fa2c7c22f9c48054ce8868ecd9e16d22e4fcc223b56c016ab0f9ac777d
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.nhilong.v1_2.0.5-3_iphoneos-arm.deb
+Size: 212580
+MD5sum: fc57eaa1f9d0b746e832bf090e031bc2
+SHA1: 5efdadc56ad52f5808be38950054ec9ae5b133be
+SHA256: 94c87bb1a33494feb2fc81e1ef8172362198c5b51fef555952b6be95a46ff9f9
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
-Name: autoleadapp_hieuhuynh_10
+Name: autoleadapp_nhilong_10
 
-Package: com.autobup.autoleadios.hieuhuynh.v2
-Version: 2.0.5-10+debug
+Package: com.autobup.autoleadios.nhilong.v2
+Version: 2.0.5-3
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 1084
+Installed-Size: 964
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.hieuhuynh.v2_2.0.5-10+debug_iphoneos-arm.deb
-Size: 197824
-MD5sum: f3ac31063a97dcc3d551add4a7c7dc3c
-SHA1: acd63ddd232cf431f8a2c62d2e1fb74ca2650f21
-SHA256: 8dad96441c0c6ce0aaee22753f6c060adc493f293d660d4725d24fe621b25dfe
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.nhilong.v2_2.0.5-3_iphoneos-arm.deb
+Size: 212602
+MD5sum: f093b77ab0a03c5a7e57671d246cf1ea
+SHA1: 0507bd9582ef73e3692d28a2e54ef67836df0792
+SHA256: 76ac35478a1ddf44c062360f621a4c8fe6132d91fa3bcded9cc75bbca29720be
 Section: Offer
 Description: iOS: 10.3 - 10.3.3
 Author: Autobup
-Name: autoleadapp_hieuhuynh_10.3
+Name: autoleadapp_nhilong_10.3
 
-Package: com.autobup.autoleadios.hieuhuynh.v3
-Version: 2.0.5-10+debug
+Package: com.autobup.autoleadios.nhilong.v3
+Version: 2.0.5-3
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 1084
+Installed-Size: 964
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.hieuhuynh.v3_2.0.5-10+debug_iphoneos-arm.deb
-Size: 198692
-MD5sum: 358c2e93b3ee8d3ba3d17f9172a96d4b
-SHA1: 88a7942b0efa6bbe22b5ff0c77a94efdf3b2430c
-SHA256: 16ee74ceaac721de3293a4efb383659b18138212e6cbfccb0cd2d43809d1f974
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.nhilong.v3_2.0.5-3_iphoneos-arm.deb
+Size: 212566
+MD5sum: 4f31197bcb9d7c9fd0841288fef4ec29
+SHA1: 755624fdf26b0b1cac34df7491e9f5a91f6b56c9
+SHA256: c98a8ec925791a6712cbf61c68eeba8397da8b438459dd7ef7fad2e74b77ad21
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
-Name: autoleadapp_hieuhuynh_11
+Name: autoleadapp_nhilong_11
 
-Package: com.autobup.autoleadios.hieuhuynh.v4
-Version: 2.0.5-10+debug
+Package: com.autobup.autoleadios.nhilong.v4
+Version: 2.0.5-3
 Architecture: iphoneos-arm
 Maintainer: namle
-Installed-Size: 1084
+Installed-Size: 964
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
 Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 13.3.1), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v4/com.autobup.autoleadios.hieuhuynh.v4_2.0.5-10+debug_iphoneos-arm.deb
-Size: 198472
-MD5sum: d5cdd65d5441cdd266b59075dbb0c24a
-SHA1: d55aebad88e1ddb5f3d735d06e21db40c3eb4f5b
-SHA256: 26cfa3436711be1311dfee8aa380fc3ff3cc2a21f512bfb315a3a7a0e572f4c7
+Filename: ./Files/autolead/v4/com.autobup.autoleadios.nhilong.v4_2.0.5-3_iphoneos-arm.deb
+Size: 212552
+MD5sum: 959ee69767885713756645d84cbea4b9
+SHA1: abf94dae3729f486398dd1d778993bce71a76b00
+SHA256: dd7a5f6c1c55289dbcf436ebbcb2b3206a673596fc15995907709b4a0d95ae62
 Section: Offer
 Description: iOS: 12.0 - 13.3.1
 Author: namle
-Name: autoleadapp_hieuhuynh_12
+Name: autoleadapp_nhilong_12
 
 Package: com.autobup.hidsupport
 Version: 1.0.1-11

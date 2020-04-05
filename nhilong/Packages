@@ -1,66 +1,66 @@
 Package: com.autobup.autoleadios.nhilong.v1
-Version: 2.0.5-3
+Version: 2.0.5-4
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 964
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.nhilong.v1_2.0.5-3_iphoneos-arm.deb
-Size: 212580
-MD5sum: fc57eaa1f9d0b746e832bf090e031bc2
-SHA1: 5efdadc56ad52f5808be38950054ec9ae5b133be
-SHA256: 94c87bb1a33494feb2fc81e1ef8172362198c5b51fef555952b6be95a46ff9f9
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.nhilong.v1_2.0.5-4_iphoneos-arm.deb
+Size: 212606
+MD5sum: 0f9711f3a99c637e42cd4ea4447f3635
+SHA1: 20bf018571bea293894e83517b47b0d034e303ed
+SHA256: 499215e09db4193ce34e98327cc143e8a8ead2b5156cb76e5e91dc616b8972c9
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp_nhilong_10
 
 Package: com.autobup.autoleadios.nhilong.v2
-Version: 2.0.5-3
+Version: 2.0.5-4
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 964
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.nhilong.v2_2.0.5-3_iphoneos-arm.deb
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.nhilong.v2_2.0.5-4_iphoneos-arm.deb
 Size: 212602
-MD5sum: f093b77ab0a03c5a7e57671d246cf1ea
-SHA1: 0507bd9582ef73e3692d28a2e54ef67836df0792
-SHA256: 76ac35478a1ddf44c062360f621a4c8fe6132d91fa3bcded9cc75bbca29720be
+MD5sum: 1bb9c0b91e41b96a321da53fbc390065
+SHA1: 5af18b9801cfbc4bc43b9874fed23d4aa2ee14a2
+SHA256: ea148989f53c540055f0a3e05a2dc84222734a3abf61dd7faf030c6968ae7285
 Section: Offer
 Description: iOS: 10.3 - 10.3.3
 Author: Autobup
 Name: autoleadapp_nhilong_10.3
 
 Package: com.autobup.autoleadios.nhilong.v3
-Version: 2.0.5-3
+Version: 2.0.5-4
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 964
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.nhilong.v3_2.0.5-3_iphoneos-arm.deb
-Size: 212566
-MD5sum: 4f31197bcb9d7c9fd0841288fef4ec29
-SHA1: 755624fdf26b0b1cac34df7491e9f5a91f6b56c9
-SHA256: c98a8ec925791a6712cbf61c68eeba8397da8b438459dd7ef7fad2e74b77ad21
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.nhilong.v3_2.0.5-4_iphoneos-arm.deb
+Size: 212576
+MD5sum: 5bf55a90a06194a52920df9686a10f11
+SHA1: 20a819232945165219ade026000b1defb0fee008
+SHA256: f1c308b0b1326770f41fe66a5593643ac9307c1b462ad61d6228ffb0bc168a2a
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
 Name: autoleadapp_nhilong_11
 
 Package: com.autobup.autoleadios.nhilong.v4
-Version: 2.0.5-3
+Version: 2.0.5-8
 Architecture: iphoneos-arm
 Maintainer: namle
 Installed-Size: 964
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
 Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 13.3.1), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v4/com.autobup.autoleadios.nhilong.v4_2.0.5-3_iphoneos-arm.deb
-Size: 212552
-MD5sum: 959ee69767885713756645d84cbea4b9
-SHA1: abf94dae3729f486398dd1d778993bce71a76b00
-SHA256: dd7a5f6c1c55289dbcf436ebbcb2b3206a673596fc15995907709b4a0d95ae62
+Filename: ./Files/autolead/v4/com.autobup.autoleadios.nhilong.v4_2.0.5-8_iphoneos-arm.deb
+Size: 212578
+MD5sum: d256a1c9b4229bcaeb0e94790903a1f1
+SHA1: 1cd2c7e1d34403b183506e0cee2e270cacaa105e
+SHA256: d325a0c5a894cc7fbd6dc9aa7d9e0e30f0aecfc661db6852688626454a426e81
 Section: Offer
 Description: iOS: 12.0 - 13.3.1
 Author: namle

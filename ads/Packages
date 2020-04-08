@@ -117,6 +117,23 @@ Author: julioverne <repo@hackyouriphone.org>
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=cracktool3
 Name: CrackTool3 (iOS 11)
 
+Package: com.hackyouriphone.ios8
+Version: 4.3.0-7
+Architecture: iphoneos-arm
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: ./Files/autotouch/com.hackyouriphone.ios8_4.3.0-7.deb
+Size: 3397658
+MD5sum: 27f7a7186b302d57f1711b3a0cd6002e
+SHA1: c28ceed5301e0399882cc1bbb368352e499f5b33
+SHA256: 042b7c5b2020346460c0fa9a12a568f7af4acd30be9dfe5174964f24c738575a
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=ios8
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=ios8
+Name: AutoTouch
+
 Package: com.ichitaso.dropbear
 Version: 1.0
 Architecture: iphoneos-arm
@@ -147,26 +164,6 @@ Description: A (lite) general purpose jailbreak detection bypass patch. Use the 
 Author: Ryley Angus
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 Name: Liberty Lite (Beta)
-
-Package: me.autotouch.AutoTouch.ios8
-Version: 5.2.4
-Architecture: iphoneos-arm
-Maintainer: Kent Krantz <kentkrantz@gmail.com>
-Installed-Size: 107100
-Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
-Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
-Filename: ./Files/autotouch/me.autotouch.AutoTouch.ios8_5.2.4_iphoneos-arm.deb
-Size: 24470418
-MD5sum: 8d097dd348b45d55fd5d31eff03bae43
-SHA1: 8eab1b1b76b8408e5514c10bdea25c9e906da8f3
-SHA256: 3e02f76e232cbb97adcfe2c38fe98b753a1a10f55ff840651c1a1b40a95de2f4
-Section: Utilities
-Priority: optional
-Homepage: https://autotouch.net
-Description: Record and playback touch operations, play macro scripts automatically.
-Author: Kent Krantz <kentkrantz@gmail.com>
-Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
-Name: AutoTouch
 
 Package: org.coolstar.scp-sftp-dropbear
 Version: 1.0.2

@@ -1,68 +1,68 @@
 Package: com.autobup.autoleadios.vanlong.v1
-Version: 2.0.5-9+debug
+Version: 2.0.5-10
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 1084
+Installed-Size: 952
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.vanlong.v1_2.0.5-9+debug_iphoneos-arm.deb
-Size: 197292
-MD5sum: 82d8a43718d1440a0b58bd45b5fc2ea8
-SHA1: 3a7fecdfa3e55f6f2ecb74ef484f44de31820c65
-SHA256: a35fa545fa9ea9c35716506fa3c14f77d0d6b81eca8fb08aed6260ebae2bb6ef
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.vanlong.v1_2.0.5-10_iphoneos-arm.deb
+Size: 208818
+MD5sum: 2d36ec2653a347a4bef1bf8bab6489e1
+SHA1: 0408211180567c7f228a0ba60aa3955099223b0a
+SHA256: 6978456448dd3945ce8c850a5e51a48719e1aef1b29fc786d54221ff03afee2f
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp_vanlong_10
 
 Package: com.autobup.autoleadios.vanlong.v2
-Version: 2.0.5-9+debug
+Version: 2.0.5-10
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 1084
+Installed-Size: 952
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.vanlong.v2_2.0.5-9+debug_iphoneos-arm.deb
-Size: 198564
-MD5sum: 228e11f7918b580bce9829eb92618466
-SHA1: 7b7b16811ce763f1c01d9a4409fde1c941dec9be
-SHA256: 1107f1287e7ab69d97b67f291aaba548a55158311ba7c496f7081172a84f7676
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.vanlong.v2_2.0.5-10_iphoneos-arm.deb
+Size: 208828
+MD5sum: baf4cce770d553636fcb0213f86f748d
+SHA1: 7d1bd96f66a5e8c9dd0b73a1bd3e8197fa71fdfd
+SHA256: a134d9d6c096b53572b7ee0261d4795b1d0bb2b7d9422a40fd225361a4aa2f78
 Section: Offer
 Description: iOS: 10.3 - 10.3.3
 Author: Autobup
 Name: autoleadapp_vanlong_10.3
 
 Package: com.autobup.autoleadios.vanlong.v3
-Version: 2.0.5-9+debug
+Version: 2.0.5-10
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
-Installed-Size: 1084
+Installed-Size: 952
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.vanlong.v3_2.0.5-9+debug_iphoneos-arm.deb
-Size: 198728
-MD5sum: c09e2e6184baa8f9659942a407a87e2d
-SHA1: a6afcc8fde60d6013cba7a9b415b41e5e909705f
-SHA256: 68d9310071c980229199411e1da6fa96ea7e1a64c61baaf7409314f2d2c7275c
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.vanlong.v3_2.0.5-10_iphoneos-arm.deb
+Size: 208806
+MD5sum: c07a528fd1200802ab40bfb7fce45d4a
+SHA1: 48ed0eba18c879f97ad492a80255203eb03e4a10
+SHA256: 9fdcdd5659e005dcf0b337d4f8ece94b3420cbe2e0bae030a5078b46c0846a07
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
 Name: autoleadapp_vanlong_11
 
 Package: com.autobup.autoleadios.vanlong.v4
-Version: 2.0.5-9+debug
+Version: 2.0.5-10
 Architecture: iphoneos-arm
 Maintainer: namle
-Installed-Size: 1084
+Installed-Size: 952
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
-Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 13.3.1), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v4/com.autobup.autoleadios.vanlong.v4_2.0.5-9+debug_iphoneos-arm.deb
-Size: 197820
-MD5sum: 6dc4c27ec0fe96a553f1f658fcd9f0ee
-SHA1: ca77d9bd4ba84b75a0d3bea89370fc3da291a45b
-SHA256: efd5e3f8107906cba8da1cdead31fd795363ca6042ace8c8bb38e315c24c33e7
+Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 13.4.1), openssh,com.ryleyangus.libertylite.beta
+Filename: ./Files/autolead/v4/com.autobup.autoleadios.vanlong.v4_2.0.5-10_iphoneos-arm.deb
+Size: 208792
+MD5sum: cd6cb09bad5dd39e0ba9ca0e5dc01fb9
+SHA1: 8177bf694ff7b8b08de41047e33542522e91f6f5
+SHA256: 3b070fd235cbfbad8ec5bf51932c42b9f8875781d114e3c2b353c50a69389c90
 Section: Offer
-Description: iOS: 12.0 - 13.3.1
+Description: iOS: 12.0 - 13.4.1
 Author: namle
 Name: autoleadapp_vanlong_12
 

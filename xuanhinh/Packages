@@ -67,17 +67,17 @@ Author: namle
 Name: autoleadapp_xuanhinh_12
 
 Package: com.autobup.hidsupport
-Version: 1.0.1-11
+Version: 1.0.1-45
 Architecture: iphoneos-arm
 Maintainer: namle
-Installed-Size: 412
+Installed-Size: 156
 Depends: mobilesubstrate (>= 0.9.5101), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
 Conflicts: jp.ashikase.mousesupport,ch.ringwald.hidsupport
-Filename: ./Files/controlsupport/com.autobup.hidsupport_1.0.1-11_iphoneos-arm.deb
-Size: 47608
-MD5sum: cf33d7763a2c020ae0f897b8e65bf854
-SHA1: 74726cc8cd3eed8b261efbd40eb4ea2229169484
-SHA256: d3bbca96e81f36c9f0fdfd2d9293073b5c1e1919346b2bd9043ff4d248f1e814
+Filename: ./Files/controlsupport/com.autobup.hidsupport_1.0.1-45_iphoneos-arm.deb
+Size: 14156
+MD5sum: 4a20094be4539a32c697f7c74a0be427
+SHA1: 90e8c6c1b32b277db50cb5484986f66feb2191b0
+SHA256: 265af4e08493a18c3875738b15e173e415749578b7832dda375d21202820ec46
 Section: Tweaks
 Homepage: http://autobup.com
 Description: control support event for autobup!

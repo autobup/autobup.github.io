@@ -1,66 +1,66 @@
 Package: com.autobup.autoleadios.quangkhai.v1
-Version: 2.0.5-11
+Version: 2.0.5-12
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 952
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
 Depends: mobilesubstrate,firmware (>=10.0),firmware (<= 10.2),org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v1/com.autobup.autoleadios.quangkhai.v1_2.0.5-11_iphoneos-arm.deb
-Size: 208892
-MD5sum: 5ba6e086158c48fa23b1ad876b651ca6
-SHA1: 8d3cb63d6512bcbaa9ca6c42020bc8f1243ddb4f
-SHA256: bfc4cbf5fba7808f82a36054a57bb370a31fec6e5f358d369ad53d2cbb5df026
+Filename: ./Files/autolead/v1/com.autobup.autoleadios.quangkhai.v1_2.0.5-12_iphoneos-arm.deb
+Size: 208910
+MD5sum: f95808c14a1dc105f27d3766c0414717
+SHA1: 64c5b6b0d5d9d360361982549a12d48b174963b3
+SHA256: 4d7a4ca18546ab36d0a244722def54ee99e8658f3514f987c71c5be567d99a14
 Section: Offer
 Description: iOS: 10.0 - 10.2
 Author: Autobup
 Name: autoleadapp_quangkhai_10
 
 Package: com.autobup.autoleadios.quangkhai.v2
-Version: 2.0.5-11
+Version: 2.0.5-12
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 952
 Pre-Depends: com.autobup.hookapp(>=1.3.7), SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
 Depends: mobilesubstrate,firmware (>=10.3),firmware (<= 10.3.3),com.ichitaso.dropbear, org.coolstar.scp-sftp-dropbear,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v2/com.autobup.autoleadios.quangkhai.v2_2.0.5-11_iphoneos-arm.deb
-Size: 208896
-MD5sum: 06d355d6d29b20c62d729a37ad68557b
-SHA1: c74ea27edf437a2c36f81c16a6539694829c9292
-SHA256: bcbc013bc3626e8dfd10c394c780afb2a70a8eda58940e6136f6e128c7f65e8b
+Filename: ./Files/autolead/v2/com.autobup.autoleadios.quangkhai.v2_2.0.5-12_iphoneos-arm.deb
+Size: 208906
+MD5sum: 4fcae385cc0926c747e0f8fb2eb09e3e
+SHA1: a12898d91db5c3148b612eb0c9238e61e03bc85c
+SHA256: 17d734503d65cdd78a43081373d11dd3d742cdcb187fce2d3a60ba9cb3502744
 Section: Offer
 Description: iOS: 10.3 - 10.3.3
 Author: Autobup
 Name: autoleadapp_quangkhai_10.3
 
 Package: com.autobup.autoleadios.quangkhai.v3
-Version: 2.0.5-11
+Version: 2.0.5-12
 Architecture: iphoneos-arm
 Maintainer: nam4am@gmail.com
 Installed-Size: 952
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
 Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.quangkhai.v3_2.0.5-11_iphoneos-arm.deb
-Size: 208880
-MD5sum: 2299088ef80a21f2da46bb300f7658c2
-SHA1: 42713b4ad456ece6079e03e0812ddd742fe2c131
-SHA256: 9a76b8a96b7a0bbdc52314abda4609cbe7ca27b44bf68d37b24fd651fe251e76
+Filename: ./Files/autolead/v3/com.autobup.autoleadios.quangkhai.v3_2.0.5-12_iphoneos-arm.deb
+Size: 208892
+MD5sum: 79911fff708000d6db224f7ac7b5ef41
+SHA1: d310c50ce466a382854e8a471a8ea4b00401364d
+SHA256: a8768e0dec39c2c5836239fa71dcd09cf47da68e7183a1611aa3b86dbd335012
 Section: Offer
 Description: iOS: 11.0 - 11.4.1
 Author: Autobup
 Name: autoleadapp_quangkhai_11
 
 Package: com.autobup.autoleadios.quangkhai.v4
-Version: 2.0.5-11
+Version: 2.0.5-12
 Architecture: iphoneos-arm
 Maintainer: namle
 Installed-Size: 952
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
 Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 13.4.1), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v4/com.autobup.autoleadios.quangkhai.v4_2.0.5-11_iphoneos-arm.deb
-Size: 208866
-MD5sum: 09d3df26ee2e22fa8f17b2ff9cbea57c
-SHA1: 64ca51d158bec57674a77065de6ac014dfea06ad
-SHA256: 5a80f81b4422a65037fa27f2b773f60499ff7812bfdfcc237b5e95ad11d772ab
+Filename: ./Files/autolead/v4/com.autobup.autoleadios.quangkhai.v4_2.0.5-12_iphoneos-arm.deb
+Size: 208872
+MD5sum: 453f908e7b0b423079736e4d68041c48
+SHA1: 9a9c1e3a6e172b7e6fd02ebba380a0500fc81519
+SHA256: b0b3544240e488c8286fb0d7a4fe0ac2c48d99d570bac6699c4bc0d0ddd082c2
 Section: Offer
 Description: iOS: 12.0 - 13.4.1
 Author: namle

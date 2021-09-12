@@ -1,37 +1,3 @@
-Package: com.autobup.autoleadios.public.v3
-Version: 2.0.5-16
-Architecture: iphoneos-arm
-Maintainer: nam4am@gmail.com
-Installed-Size: 952
-Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
-Depends: mobilesubstrate,firmware (>=11.0),firmware (<= 11.4.1), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v3/com.autobup.autoleadios.public.v3_2.0.5-16_iphoneos-arm.deb
-Size: 208840
-MD5sum: 4958c2c10da13eb5b1345c86da2ac174
-SHA1: 100afb78282c37cf5a72e101397cc68034527580
-SHA256: 4332686bc0209fda91a3a23e76b63cd0946268d181f47e5a7e5b3403d0f9e15a
-Section: Offer
-Description: iOS: 11.0 - 11.4.1
-Author: Autobup
-Name: autoleadapp11
-
-Package: com.autobup.autoleadios.public.v4
-Version: 2.0.5-16
-Architecture: iphoneos-arm
-Maintainer: namle
-Installed-Size: 952
-Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
-Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 13.4.1), openssh,com.ryleyangus.libertylite.beta
-Filename: ./Files/autolead/v4/com.autobup.autoleadios.public.v4_2.0.5-16_iphoneos-arm.deb
-Size: 208846
-MD5sum: 20daf9791f55b980fdbd61f75846f25c
-SHA1: bfc9cd611b37590435651f537e6d8f079d6a8ab2
-SHA256: 1a28d9719fe8aac6d86f95d1c65bf4f28291b8b2c1ed0201c6f6f627deccdc82
-Section: Offer
-Description: iOS: 12.0 - 13.4.1
-Author: namle
-Name: autoleadapp12
-
 Package: com.autobup.changeinfo
 Version: 1.7.4-4
 Architecture: iphoneos-arm

@@ -1,14 +1,14 @@
 Package: com.red.dialog
-Version: 1.1.0-57+debug
+Version: 1.1.0-70+debug
 Architecture: iphoneos-arm
 Maintainer: auto
-Installed-Size: 4584
+Installed-Size: 4608
 Depends: mobilesubstrate, preferenceloader
-Filename: ./Files/reddialog/com.red.dialog_1.1.0-57+debug_iphoneos-arm.deb
-Size: 4388260
-MD5sum: c067ed2aac9e9d00be1deaac8561991f
-SHA1: b832c791940c8726436fc1f25baf04396c84b68b
-SHA256: e8f8952d919304b79fc7092a6cab0db655302b4d9e739e1a8d262835f0a9b50b
+Filename: ./Files/reddialog/com.red.dialog_1.1.0-70+debug_iphoneos-arm.deb
+Size: 4362182
+MD5sum: 1d94bc107a85920b82fe0870b1834fe9
+SHA1: 2a490ee041bd7e1e0fbd36a642e3f2c295a3d164
+SHA256: 5de2ff2032d9f7e4356c5dbc0c0302f937d9c70ce74e109acbcb7883382f83c6
 Section: Tweaks
 Description: Dialog Faker
 Author: auto

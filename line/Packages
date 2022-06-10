@@ -1,19 +1,35 @@
 Package: com.autobup.autoleadios.line.v1
-Version: 1.0.1-1
+Version: 1.0.1-2
 Architecture: iphoneos-arm
 Maintainer: namle
 Installed-Size: 4192
-Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
+Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat, com.touchsprite.ios.arm64.pro.v3
 Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 13.4.1), openssh
-Filename: ./Files/line/com.autobup.autoleadios.line.v1_1.0.1-1_iphoneos-arm.deb
-Size: 1070726
-MD5sum: b5ff3f648e3dea2d2cccd4e92147a708
-SHA1: 990707cc1c82a7ac5093d522a7b3a59dba688766
-SHA256: a8d8c6a3b44b7cd2b7f07a54d5d2c0b9eddc585f0e9279cd251c6782c5ca2f78
+Filename: ./Files/line/com.autobup.autoleadios.line.v1_1.0.1-2_iphoneos-arm.deb
+Size: 1070756
+MD5sum: 086834772d472698d5fc3ebbb8e3dbc3
+SHA1: 12ec574cceb707b8e59d07890ee968c989890672
+SHA256: 222b233f35982d4e2008a5a22ad08c48da0ccb7df58f3b57980efd9a55879c7b
 Section: Offer
 Description: iOS: 12.0 - 13.4.1
 Author: namle
 Name: autoline
+
+Package: com.autobup.hookapp
+Version: 1.4.1-42
+Architecture: iphoneos-arm
+Maintainer: nam4am@autobup.com
+Installed-Size: 112
+Depends: firmware (>=9.0),mobilesubstrate
+Filename: ./Files/hookapp/com.autobup.hookapp_1.4.1-42_iphoneos-arm.deb
+Size: 20782
+MD5sum: 5fde6af33ce5422001f7a6ade2739cce
+SHA1: b900f20e88229ec6d831df054669e4e6baca8c7d
+SHA256: 0eb3660e30c71b6f1d8d97d454d941e718eb71d4c58edaa5a5a7086e07fc0abe
+Section: Offer
+Description: Support for hook package auto, only App.
+Author: Autobup
+Name: HookApp
 
 Package: com.touchsprite.ios.arm64.pro.v3
 Version: 3.1.3

@@ -1,0 +1,34 @@
+Package: com.autobup.autoleadios.line.v1
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: namle
+Installed-Size: 4192
+Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,com.autobup.hidsupport,zip, socat
+Depends: mobilesubstrate,firmware (>=12.0),firmware (<= 13.4.1), openssh
+Filename: ./Files/line/com.autobup.autoleadios.line.v1_1.0.1-1_iphoneos-arm.deb
+Size: 1070726
+MD5sum: b5ff3f648e3dea2d2cccd4e92147a708
+SHA1: 990707cc1c82a7ac5093d522a7b3a59dba688766
+SHA256: a8d8c6a3b44b7cd2b7f07a54d5d2c0b9eddc585f0e9279cd251c6782c5ca2f78
+Section: Offer
+Description: iOS: 12.0 - 13.4.1
+Author: namle
+Name: autoline
+
+Package: com.touchsprite.ios.arm64.pro.v3
+Version: 3.1.3
+Architecture: iphoneos-arm
+Maintainer: 北京帮你玩科技有限公司 <support@touchsprite.com>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Replaces: com.ts.touchsprite, com.darwindev.touchsprite, repo.so.touchsprite, touchsprite.178, com.touchsprite.ios
+Filename: ./Files/touchsprite/TScrack.deb
+Size: 11967282
+MD5sum: 594bc946c54bb0056238310a6318499b
+SHA1: 57730d86738fa661c477a840231bbe3882885964
+SHA256: 1bed84a908df2e4120ca1a99d4a4dff7496d8465b7b6c6374969d4b95f83f60b
+Section: 触动专业版
+Author: 北京帮你玩科技有限公司 <support@touchsprite.com>
+Icon: file:///Applications/TouchSprite.app/icon.png
+Name: 触动精灵专业版(arm64)
+Sponsor: 北京帮你玩科技有限公司 <http://www.touchsprite.com>
+

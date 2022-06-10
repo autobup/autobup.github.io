@@ -15,6 +15,24 @@ Description: iOS: 12.0 - 15
 Author: namle
 Name: autoline
 
+Package: com.autobup.hidsupport
+Version: 1.0.1-45
+Architecture: iphoneos-arm
+Maintainer: namle
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5101), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Conflicts: jp.ashikase.mousesupport,ch.ringwald.hidsupport
+Filename: ./Files/controlsupport/com.autobup.hidsupport_1.0.1-45_iphoneos-arm.deb
+Size: 14156
+MD5sum: 4a20094be4539a32c697f7c74a0be427
+SHA1: 90e8c6c1b32b277db50cb5484986f66feb2191b0
+SHA256: 265af4e08493a18c3875738b15e173e415749578b7832dda375d21202820ec46
+Section: Tweaks
+Homepage: http://autobup.com
+Description: control support event for autobup!
+Author: namle
+Name: controlsupport
+
 Package: com.autobup.hookapp
 Version: 1.4.1-42
 Architecture: iphoneos-arm

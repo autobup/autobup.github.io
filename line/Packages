@@ -1,15 +1,15 @@
 Package: com.autobup.autoleadios.line.v1
-Version: 1.0.1-67
+Version: 1.0.1-68
 Architecture: iphoneos-arm
 Maintainer: namle
 Installed-Size: 7440
 Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,zip, socat, com.touchsprite.ios.arm64.pro.v3
 Depends: mobilesubstrate,firmware (>=12.0),firmware (< 15), openssh
-Filename: ./Files/line/com.autobup.autoleadios.line.v1_1.0.1-67_iphoneos-arm.deb
-Size: 2175126
-MD5sum: 18a2dba71618fb227611e803abc2a91d
-SHA1: ef15454a8072799b949c78bd193955db22a3b867
-SHA256: 8ade4668618dc4753843fa0955b3d9925eb9a2a5b493c6d7b0b1f4f29eeda644
+Filename: ./Files/line/com.autobup.autoleadios.line.v1_1.0.1-68_iphoneos-arm.deb
+Size: 2175120
+MD5sum: 2caf4742378c91f8b7f1ddf281ec449a
+SHA1: 4f1ba54298556e16fb80fc9373ebe6adcec9cc44
+SHA256: 7ecfcd8443b2c281909ac4800a0bb049e9e672f736017c74138bef87cc75dd67
 Section: Offer
 Description: iOS: 12.0 - 15
 Author: namle

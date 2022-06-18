@@ -1,20 +1,3 @@
-Package: com.autobup.autoleadios.line.v1
-Version: 1.0.1-140
-Architecture: iphoneos-arm
-Maintainer: namle
-Installed-Size: 7624
-Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,zip, socat, com.touchsprite.ios.arm64.pro.v3
-Depends: mobilesubstrate,firmware (>=12.0),firmware (< 15), openssh
-Filename: ./Files/line/com.autobup.autoleadios.line.v1_1.0.1-140_iphoneos-arm.deb
-Size: 2285486
-MD5sum: d7a6db6301ea91452bf90155165a971b
-SHA1: 333e65344e8d085ef37401bb1272829d0c266b96
-SHA256: c7597e50b4ef66d3268b3f9140fb8b9302d6d5183948dc4eb9fccba8e42e800b
-Section: Offer
-Description: iOS: 12.0 - 15
-Author: namle
-Name: autoline
-
 Package: com.autobup.hookapp
 Version: 1.4.1-44+debug
 Architecture: iphoneos-arm

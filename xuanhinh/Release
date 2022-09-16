@@ -1,8 +1,0 @@
-Origin: Autobup's repo
-Label: Autobup's repo
-Suite: stable
-Version: 1.1
-Codename: aubotup
-Architectures: iphoneos-arm
-Components: main
-Description: Autobup's Cydia Repository

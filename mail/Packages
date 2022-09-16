@@ -1,0 +1,17 @@
+Package: com.autobup.autoleadios.gmail.v1
+Version: 1.0.1-8
+Architecture: iphoneos-arm
+Maintainer: namle
+Installed-Size: 7672
+Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,zip, socat, com.touchsprite.ios.arm64.pro.v3
+Depends: mobilesubstrate,firmware (>=12.0),firmware (< 15), openssh
+Filename: ./Files/mail/com.autobup.autoleadios.gmail.v1_1.0.1-8_iphoneos-arm.deb
+Size: 2309328
+MD5sum: 5523804e2514dcbe1280290f56c1b56f
+SHA1: e47e1bd8e704e6dc774db6daf2e874728a30826f
+SHA256: 1d3711adc557b2902585ef301e6a7050f602e81553cf9e3df590b970cf1ef064
+Section: Offer
+Description: iOS: 12.0 - 15
+Author: namle
+Name: automail
+

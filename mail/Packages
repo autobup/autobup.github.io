@@ -15,3 +15,19 @@ Description: iOS: 12.0 - 15
 Author: namle
 Name: automail
 
+Package: com.autobup.hookapp
+Version: 1.4.1-44+debug
+Architecture: iphoneos-arm
+Maintainer: nam4am@autobup.com
+Installed-Size: 152
+Depends: firmware (>=9.0),mobilesubstrate
+Filename: ./Files/hookapp/com.autobup.hookapp_1.4.1-44+debug_iphoneos-arm.deb
+Size: 27468
+MD5sum: 23af7ca037ba784ffa24b6ae6249d595
+SHA1: 96d200a66667f255732e049d4e766bae528a628c
+SHA256: 2eff0154428f676fc5869cf60a424befea7e6d8911c2233a8c9ae22a8b3cc889
+Section: Offer
+Description: Support for hook package auto, only App.
+Author: Autobup
+Name: HookApp
+

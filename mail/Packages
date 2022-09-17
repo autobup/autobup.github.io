@@ -1,15 +1,16 @@
 Package: com.autobup.autoleadios.gmail.v1
-Version: 1.0.1-11
+Version: 1.0.1-29
 Architecture: iphoneos-arm
 Maintainer: namle
-Installed-Size: 3720
-Pre-Depends: com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,zip, socat, com.touchsprite.ios.arm64.pro.v3
+Installed-Size: 3780
+Pre-Depends: com.tigisoftware.appdatamanager,com.autobup.hookapp(>=1.3.7),SQLite3, com.rbt.useragentchanger,jetslammed,curl,network-cmds,com.cydiageek.coysim,zip, socat, com.touchsprite.ios.arm64.pro.v3
 Depends: mobilesubstrate,firmware (>=12.0),firmware (< 15), openssh
-Filename: ./Files/mail/com.autobup.autoleadios.gmail.v1_1.0.1-11_iphoneos-arm.deb
-Size: 1938794
-MD5sum: 032f9efa5fa92bc8588499bc66ae0a0b
-SHA1: 51b108d0c853fac6834bf60a34f01b535704837a
-SHA256: 2090ee01ab76fce144b590e9fb4f6755c477892a912f7b5c55d75deb05726815
+Conflicts: com.ienthach.xoainfo
+Filename: ./Files/mail/com.autobup.autoleadios.gmail.v1_1.0.1-29_iphoneos-arm.deb
+Size: 1993436
+MD5sum: efabea040d072a0152f1774b11efdce8
+SHA1: ce41b528c355d571f75f6b71ab41e0547bf7947f
+SHA256: b6e8140c4939f9e739acea21a8e9f407d8508b167c3d57f16ab517e8843f47a9
 Section: Offer
 Description: iOS: 12.0 - 15
 Author: namle
